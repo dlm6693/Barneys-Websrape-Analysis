@@ -1,0 +1,386 @@
+,Brand,Product_Name,Price,Category
+0,AMIRI,Striped Wool-Blend Chenille Oversized Cardigan,"$1,190",Sweaters
+1,Acne Studios,Nalon Wool Sweater,$300,Sweaters
+2,Gucci,Fair Isle- & GG-Pattern Wool Sweater,"$1,200",Sweaters
+3,Givenchy,Logo-Knit Wool Sweater,$740,Sweaters
+4,Comme des Garçons,Colorblocked Wool Oepn-Front Sweater,$855,Sweaters
+5,ATM Anthony Thomas Melillo,Striped Cotton Crewneck Sweater,$295,Sweaters
+6,John Varvatos Star U.S.A.,Marled Cotton-Blend Zip-Front Sweater,$248,Sweaters
+7,LOST DAZE,Desert-Intarsia Cotton-Cashmere Cardigan,$950,Sweaters
+8,Thom Browne,Whale Cotton Cardigan,"$1,390",Sweaters
+9,CALVIN KLEIN 205W39NYC,"""Jaws"" English Rib-Knit Oversized Sweater","$1,200",Sweaters
+10,CALVIN KLEIN 205W39NYC,Blood-Droplet Wool-Cotton Sweatervest,$790,Sweaters
+11,Balenciaga,Embroidered-Logo Terry Hoodie,$968,Sweaters
+12,Balmain,Striped Logo-Jacquard Sweater,"$1,195",Sweaters
+13,Gucci,Tiger-Graphic Metallic Wool-Blend Sweater,"$1,500",Sweaters
+14,OAMC,Fringe Colorblocked Cotton Oversized Sweater,"$1,415",Sweaters
+15,Prada,Jacquard Tweed Sweater,$840,Sweaters
+16,Barneys New York,Honeycomb-Knit Cotton Shawl-Collar Cardigan,$315,Sweaters
+17,Barneys New York,Cable-Knit Cotton Sweater,$295,Sweaters
+18,Barneys New York,Oversized Cotton Sweater,$295,Sweaters
+19,Barneys New York,Cotton-Alpaca Jacquard Sweater,$275,Sweaters
+20,Rag & Bone,Lance Cotton Crewneck Sweater,$250,Sweaters
+21,Rag & Bone,Stockton Embroidered Cotton-Blend V-Neck Sweater,$295,Sweaters
+22,Balenciaga,Logo-Jacquard Wool-Blend Sweater,"$1,190",Sweaters
+23,CALVIN KLEIN 205W39NYC,Button-Shoulder Striped Wool Sweater,$990,Sweaters
+24,Balenciaga,Mixed-Stitch Wool-Cotton Oversized Sweater,"$1,790",Sweaters
+25,Comme des Garçons SHIRT,"""Live Free"" V-Neck Cardigan",$285,Sweaters
+26,Ermenegildo Zegna,Casheta Light Cashmere-Silk V-Neck Sweater,$825,Sweaters
+27,Fendi,Monster Cotton Sweater,$770,Sweaters
+28,Lanvin,Wrinkled Fine-Gauge Knit Sweater,$595,Sweaters
+29,ATM Anthony Thomas Melillo,Chenille Sweater,$295,Sweaters
+30,Raf Simons,Metallic-Diamond Intarsia-Knit Cutout Sweater,$725,Sweaters
+31,Gucci,GG-Jacquard Wool-Cotton Cardigan,"$1,800",Sweaters
+32,Gucci,GG-Jacquard Wool-Cotton Sweater,"$1,100",Sweaters
+33,Gucci,Chain-Link & Web Striped Cotton-Blend Sweater Vest,"$1,300",Sweaters
+34,Barneys New York,Wool Polo Sweater,$375,Sweaters
+35,Barneys New York,Textured-Knit Cotton V-Neck Sweater,$465,Sweaters
+36,Maison Margiela,Sheer Mesh Turtleneck Sweater,$940,Sweaters
+37,Gucci,NY Yankees™ Alpaca-Wool Cardigan,"$2,200",Sweaters
+38,Barneys New York,Cashmere Quarter-Zip Sweater,$550,Sweaters
+39,Burberry,Oversized Cashmere Cardigan,$970,Sweaters
+40,Prada,Jacquard Zip-Front Cardigan,"$1,560",Sweaters
+41,Raf Simons,Metallic Rib-Knit Oversized Sweater,"$1,105",Sweaters
+42,Raf Simons,Multi-Sleeve Metallic Rib-Knit Sweater,$990,Sweaters
+43,Ermenegildo Zegna Couture,Cotton Mesh Sweater,"$1,290",Sweaters
+44,Fioroni,Contrast-Knit Cashmere Sweater,$895,Sweaters
+45,The Row,Roger Fine-Gauge Silk-Cotton Short-Sleeve Sweater,$890,Sweaters
+46,Balenciaga,Gothic-Logo Terry Hoodie,$968,Sweaters
+47,Balenciaga,Logo Rib-Knit Top,"$1,190",Sweaters
+48,Balenciaga,Striped Compact Chenille Oversized Sweater,"$1,750",Sweaters
+49,Sundae School,"""Smoking Chills"" Wool Crewneck Sweater",$300,Sweaters
+50,Luciano Barbera,Marled Alpaca-Blend Zip-Front Sweater,$795,Sweaters
+51,Fioroni,Contrast-Knit Cashmere Sweater,$895,Sweaters
+52,Maison Margiela,Mock Turtleneck Sweater,$975,Sweaters
+53,Acne Studios,Kai Wool Sweater,$300,Sweaters
+54,Acne Studios,Keene Rib-Knit Cotton-Blend Sweater,$420,Sweaters
+55,Prabal Gurung,Oversized Tie-Dyed Cashmere Hoodie,"$1,395",Sweaters
+56,Prada,Logo-Knit Wool Short-Sleeve Turtleneck Sweater,$890,Sweaters
+57,The Row,Benji Cashmere Crewneck Sweater,"$1,095",Sweaters
+58,The Row,Sean Fine-Gauge Silk-Cotton Mock-Turtleneck Sweater,"$1,050",Sweaters
+59,Barneys New York,Colorblocked Cotton-Blend Sweater,$275,Sweaters
+60,Barneys New York,English Rib-Knit Alpaca Sweater,$295,Sweaters
+61,Barneys New York,Cotton-Alpaca Turtleneck Sweater,$295,Sweaters
+62,Jil Sander,Cashmere Crewneck Sweater,$990,Sweaters
+63,Jil Sander,Wool High-Neck Short-Sleeve Sweater,$590,Sweaters
+64,Neil Barrett,Arrow-Lightning-Bolt Wool Sweater,$525,Sweaters
+65,Rick Owens,Double-Faced Cotton & Cashmere Hooded Cardigan,"$2,700",Sweaters
+66,AMI Alexandre Mattiussi,Striped Alpaca-Blend Crewneck Sweater,$525,Sweaters
+67,Paul Smith,Stripe-Trimmed Fine-Gauge Wool Quarter-Zip Sweater,$295,Sweaters
+68,Paul Smith,Stripe-Trimmed Fine-Gauge Wool Zip-Front Sweater,$295,Sweaters
+69,LOEWE,Wavy-Striped Cotton Crewneck Sweater,$950,Sweaters
+70,Calvin Klein Jeans Est. 1978,Logo-Back Wool-Cashmere Crewneck Sweater,$370,Sweaters
+71,Fioroni,Ribbed Cotton V-Neck Sweater,$575,Sweaters
+72,Prada,Geometric-Patterned Jacquard Short-Sleeve Sweater,$840,Sweaters
+73,Fioroni,Ribbed Cotton V-Neck Sweater,$575,Sweaters
+74,mastermind JAPAN,Striped Oversized Cardigan,"$6,600",Sweaters
+75,Fioroni,Ribbed Cotton V-Neck Sweater,$575,Sweaters
+76,Prada,Cashmere Crewneck Sweater,$840,Sweaters
+77,Kenzo,Tiger-Embroidered Cotton Sweater,$395,Sweaters
+78,Inis Meáin,Aran-Knit Linen-Cotton Button-Front Cardigan,$600,Sweaters
+79,Thom Browne,Milano-Stitched Cotton V-Neck Cardigan,"$1,090",Sweaters
+80,Thom Browne,Compact Knit Wool Sportcoat-Style Cardigan,"$1,900",Sweaters
+81,Thom Browne,Textured Rib-Knit Wool High-Low Sweater,$980,Sweaters
+82,Thom Browne,Stripe-Trimmed Rib-Knit Cotton Sweater,$450,Sweaters
+83,Thom Browne,Block-Striped Cotton Crewneck Sweater,$980,Sweaters
+84,Fioroni,Tipped Cotton Zip-Front Cardigan,$750,Sweaters
+85,Rag & Bone,Striped Cotton-Blend Crewneck Sweater,$295,Sweaters
+86,Ralph Lauren Purple Label,Cashmere Square-Neck Sweater,"$1,495",Sweaters
+87,Balmain,Distressed Striped Linen Long Cardigan,"$1,350",Sweaters
+88,Loro Piana,Roadster Cashmere Half-Zip Sweater,$935,Sweaters
+89,Maison Margiela,Suede-Elbow Cotton Crewneck Sweater,$495,Sweaters
+90,Eidos,Slub-Knit Cotton-Wool Sweater,$430,Sweaters
+91,Eidos,Fuzzy Cotton-Blend Crewneck Sweater,$430,Sweaters
+92,Sacai,Zip-Side Geometric-Jacquard Cotton Sweater,$645,Sweaters
+93,Paul Smith,Striped-Collar Wool Sweater,$295,Sweaters
+94,Loro Piana,Cashmere Crewneck Sweater,$945,Sweaters
+95,Barneys New York,Mélange Cashmere Crewneck Sweater,$575,Sweaters
+96,John Varvatos,Ribbed Cotton-Blend Henley,$298,Sweaters
+97,Loro Piana,Roadster Cashmere Half-Zip Sweater,$935,Sweaters
+98,Rick Owens,Rib-Knit Wool Crewneck Sweater,$520,Sweaters
+99,Eidos,Mélange Linen-Cotton Crewneck Sweater,$430,Sweaters
+100,Loro Piana,Thermal Rib-Knit Cashmere Sweater,"$1,225",Sweaters
+101,Stone Island,Chunky Cotton Crewneck Sweater,$425,Sweaters
+102,Prada,Virgin Wool Crewneck Sweater,$840,Sweaters
+103,Balmain,Metallic-Striped Wool-Blend Crewneck Sweater,$950,Sweaters
+104,Loro Piana,Silk-Cashmere Sweater Jacket,"$3,250",Sweaters
+105,RRL,Folkloric Cotton-Blend Cardigan,$795,Sweaters
+106,Loro Piana,Cashmere Half-Zip Sweater,"$1,225",Sweaters
+107,Givenchy,Logo Terry Cutoff Hoodie,$780,Sweaters
+108,Givenchy,Logo Terry Hoodie,$920,Sweaters
+109,Givenchy,Logo & Eagle Terry Hoodie,$980,Sweaters
+110,Givenchy,Logo Terry Hoodie,$920,Sweaters
+111,Sies Marjan,Striped Linen Oversized Sweater,$595,Sweaters
+112,Barneys New York,Mélange Cashmere Crewneck Sweater,$575,Sweaters
+113,The Elder Statesman,Striped Cashmere Sweater,$805,Sweaters
+114,The Elder Statesman,Cashmere Baja Sweater,"$2,135",Sweaters
+115,Barneys New York,Mélange Cashmere Crewneck Sweater,$575,Sweaters
+116,Barneys New York,Cashmere Crewneck Sweater,$575,Sweaters
+117,The Elder Statesman,Double-Faced Cashmere Sweater,"$1,015",Sweaters
+118,Jil Sander,Mélange Crewneck Sweater,$990,Sweaters
+119,Jil Sander,Abstract-Pattern Mixed-Knit Sweater,"$1,250",Sweaters
+120,Jil Sander,Open-Knit Fisherman Sweater,$790,Sweaters
+121,Alexander McQueen,Chunky Wool Convertible Cardigan,"$2,375",Sweaters
+122,AMIRI,Teddy Bear Oversized Sweater,"$1,190",Sweaters
+123,AMIRI,Gradient Oversized Cardigan,"$1,250",Sweaters
+124,Saint Laurent,Mixed-Knit Wool-Blend Sweater,"$1,290",Sweaters
+125,Saint Laurent,Striped Open-Knit Sweater,$990,Sweaters
+126,Inis Meáin,Zip-Front Linen Cardigan,$495,Sweaters
+127,Inis Meáin,Zip-Front Linen Cardigan,$495,Sweaters
+128,Inis Meáin,Mélange Linen Sweater,$415,Sweaters
+129,Inis Meáin,Mélange Linen Crewneck Sweater,$415,Sweaters
+130,Inis Meáin,Mélange Linen Sweater,$415,Sweaters
+131,RtA,Embroidered Wool-Cashmere Sweater,$425,Sweaters
+132,Maison Margiela,Cotton-Blend Oversized Sweater,$995,Sweaters
+133,Maison Margiela,Cotton Military Sweater,"$1,270",Sweaters
+134,Maison Margiela,Marled Chunky-Knit Cotton-Blend Sweatervest,$790,Sweaters
+135,Rag & Bone,Haldon Cashmere Crewneck Sweater,$395,Sweaters
+136,Marni,Striped V-Neck Sweater,$990,Sweaters
+137,Fioroni,Mixed-Knit Cotton Jacket,$795,Sweaters
+138,Moncler,Block-Striped Double-Knit Cotton Cardigan,$620,Sweaters
+139,P. Johnson,Merino Wool-Blend Cardigan,$350,Sweaters
+140,John Varvatos,Lattice-Detail Wool-Linen Sweater,$298,Sweaters
+141,ATM Anthony Thomas Melillo,Striped Fine-Gauge Silk-Blend Sweater,$295,Sweaters
+142,Prada,Cashmere Crewneck Sweater,$980,Sweaters
+143,PS by Paul Smith,Landscape-Pattern Cotton-Blend Sweater,$295,Sweaters
+144,PS by Paul Smith,Striped Fine-Gauge Merino Wool Zip-Front Cardigan,$295,Sweaters
+145,PS by Paul Smith,Geometric-Patterned Wool-Blend Sweater,$295,Sweaters
+146,James Perse,Brushed Baby-Cashmere Zip-Front Hoodie,$595,Sweaters
+147,Aztech Mountain,Ashcroft Mountain-Print Wool Sweater,$475,Sweaters
+148,Loro Piana,Mélange Baby-Cashmere Zip-Front Sweater,"$2,525",Sweaters
+149,Eleventy,Contrast-Trimmed Cotton-Blend Bouclé Sweater,$295,Sweaters
+150,Dries Van Noten,Striped Wool Crewneck Sweater,$655,Sweaters
+151,Dries Van Noten,Wool Oversized Crewneck Sweater,$600,Sweaters
+152,DICKIES CONSTRUCT,Logo Cotton Fleece Cardigan,$240,Sweaters
+153,Ermenegildo Zegna,High Performance Wool Quarter-Zip Sweater,$845,Sweaters
+154,ATM Anthony Thomas Melillo,Striped Cotton-Blend Sweater,$295,Sweaters
+155,John Varvatos,Silk-Cashmere Hoodie,$398,Sweaters
+156,John Varvatos,Houndstooth Jacquard Crewneck Sweater,$298,Sweaters
+157,Loro Piana,Baby-Cashmere Four-Button Sweater,"$1,995",Sweaters
+158,Ermenegildo Zegna,High Performance Wool Quarter-Zip Sweater,$845,Sweaters
+159,ATM Anthony Thomas Melillo,Fair Isle Wool-Blend Sweater,$375,Sweaters
+160,Loro Piana,Baby-Cashmere Zip-Front Sweater,"$2,525",Sweaters
+161,Theory,Riland Cotton-Piqué Sweater,$185,Sweaters
+162,Helmut Lang,Mixed-Knit Sweater,$520,Sweaters
+163,Isabel Marant,Obli Striped Alpaca-Blend Sweater,$415,Sweaters
+164,Isabel Marant,Nansel Fleece Hoodie,$485,Sweaters
+165,Giorgio Armani,Stretch-Jersey Jacket,"$2,395",Sweaters
+166,S.MORITZ,Striped Brushed Wool Sweater,$350,Sweaters
+167,Lanvin,Cashmere V-Neck Sweater,$990,Sweaters
+168,Lanvin,Merino Wool-Blend Compact Knit Cardigan,"$1,350",Sweaters
+169,S.MORITZ,Striped Brushed Wool Sweater,$350,Sweaters
+170,Lanvin,Cashmere Crewneck Sweater,$990,Sweaters
+171,Ermenegildo Zegna,Striped V-Neck Cotton-Silk Sweater,$895,Sweaters
+172,Ermenegildo Zegna,High Performance Wool Quarter-Zip Sweater,$845,Sweaters
+173,CALVIN KLEIN 205W39NYC,Yale-Knit Virgin Wool-Blend Oversized Sweater,"$1,300",Sweaters
+174,CALVIN KLEIN 205W39NYC,Quilt-Knit Wool-Cotton Oversized Sweater,"$1,400",Sweaters
+175,CALVIN KLEIN 205W39NYC,Quilt-Knit Cotton-Blend Oversized Sweater,"$1,900",Sweaters
+176,Ermenegildo Zegna,Waffle-Knit Wool-Cashmere Mock Turtleneck Sweater,"$1,095",Sweaters
+177,Ermenegildo Zegna,Waffle-Knit Wool-Cashmere Mock Turtleneck Sweater,"$1,095",Sweaters
+178,Ermenegildo Zegna,Waffle-Knit Wool-Cashmere Mock Turtleneck Sweater,"$1,095",Sweaters
+179,Neil Barrett,Cable-Knit Wool Sweater,$740,Sweaters
+180,Moncler,Down-Quilted Cotton Zip-Front Sweater,$990,Sweaters
+181,Givenchy,Dragon-Motif Wool-Blend Sweater,"$1,420",Sweaters
+182,Givenchy,Monster-Intarsia Chenille Sweater,"$1,260",Sweaters
+183,Givenchy,4G-Flame-Motif Wool Sweater,"$1,260",Sweaters
+184,Givenchy,Upside-Down-Logo Cotton Sweater,$835,Sweaters
+185,Massimo Alba,Brushed Camel Hair Sweater,$605,Sweaters
+186,Massimo Alba,Alpaca-Blend Turtleneck Sweater,$690,Sweaters
+187,Balenciaga,Bleached Cable-Knit Cotton Turtleneck Sweater,"$1,750",Sweaters
+188,Takahiromiyashita theSoloist,Rib-Knit Wool Zip-Front Sweater,"$1,375",Sweaters
+189,Ermenegildo Zegna,Cashmere-Silk Bouclé Sweater,"$1,695",Sweaters
+190,Ermenegildo Zegna,Brushed Cashmere Mock-Turtleneck Sweater,$995,Sweaters
+191,Barena Venezia,Wool-Cashmere Sweater,$295,Sweaters
+192,Off-White c/o Virgil Abloh,"""Impressionism"" Wool Sweater","$1,330",Sweaters
+193,A-COLD-WALL*,Logo-Embroidered Wool-Blend Oversized Sweater,"$1,255",Sweaters
+194,Barena Venezia,Virgin Wool-Blend Cardigan,$550,Sweaters
+195,P. Johnson,Wool-Cashmere Crewneck Sweater,$300,Sweaters
+196,Thom Browne,Houndstooth Wool-Blend V-Neck Cardigan,"$1,490",Sweaters
+197,P. Johnson,Merino Wool-Cashmere V-Neck Sweater,$245,Sweaters
+198,Off-White c/o Virgil Abloh,Logo-Knit Distressed Cotton-Blend Sweater,$780,Sweaters
+199,Brioni,Fine-Gauge Cotton-Cashmere Raglan Sweatshirt,"$1,450",Sweaters
+200,P. Johnson,Rib-Knit Merino Wool-Cashmere Sweater,$300,Sweaters
+201,Undercover,Logo Wool Boxy Sweater,$540,Sweaters
+202,P. Johnson,Merino Wool-Cashmere Turtleneck Sweater,$300,Sweaters
+203,P. Johnson,Merino Wool-Blend Cardigan,$295,Sweaters
+204,Barneys New York,Active Cashmere® Crewneck Sweater,$595,Sweaters
+205,Barneys New York,Active Cashmere® Crewneck Sweater,$595,Sweaters
+206,Barneys New York,Active Cashmere® Crewneck Sweater,$595,Sweaters
+207,Barneys New York,Active Cashmere® Crewneck Sweater,$595,Sweaters
+208,Barneys New York,Active Cashmere® Crewneck Sweater,$595,Sweaters
+209,Brioni,Cotton-Silk Striped Crewneck Sweater,$950,Sweaters
+210,Brioni,Textured Cotton-Silk Crewneck Sweater,"$1,450",Sweaters
+211,Inis Meáin,Mélange Linen Shirt-Style Cardigan,$415,Sweaters
+212,Margaret Howell,Cashmere Saddle-Shoulder Sweater,$550,Sweaters
+213,Margaret Howell,Cashmere Saddle-Shoulder Sweater,$550,Sweaters
+214,Gosha Rubchinskiy X adidas,Logo-Knit Wool-Blend Sweater,$355,Sweaters
+215,Barneys New York,Wool Half-Zip Sweater,$325,Sweaters
+216,James Perse,Cotton-Blend Zip-Front Sweater,$465,Sweaters
+217,Prada,Virgin Wool V-Neck Cardigan,$980,Sweaters
+218,Prada,Taped-Stripe Cotton Sweatshirt,$840,Sweaters
+219,Brioni,Fine-Gauge Cashmere Turtleneck Sweater,"$1,350",Sweaters
+220,Brioni,Honeycomb-Knit Wool Crewneck Sweater,$800,Sweaters
+221,Rag & Bone,Trevor Aran Chunky Cable-Knit Wool-Blend Sweater,$450,Sweaters
+222,The Elder Statesman,Cashmere Sunset Sweater,"$1,665",Sweaters
+223,Fendi,"""Fendi Mania"" Embroidered Wool Sweater",$990,Sweaters
+224,AMI Alexandre Mattiussi,Ribbed Merino Wool-Blend Turtleneck Sweater,$510,Sweaters
+225,Barena Venezia,Virgin Wool Half-Zip Sweater,$470,Sweaters
+226,NSF,Distressed Cable-Knit Wool-Blend Sweater,$350,Sweaters
+227,Barneys New York,Compact Fine-Gauge Knit Wool Zip-Front Sweater,$525,Sweaters
+228,VisVim,Wool Oversized V-Neck Cardigan,"$2,075",Sweaters
+229,Officine Générale,Wool Crewneck Sweater,$415,Sweaters
+230,Margaret Howell,Wool-Cashmere Saddle-Shoulder Sweater,$390,Sweaters
+231,Barena Venezia,Cashmere-Wool Sweater,$515,Sweaters
+232,The Row,Daniel Rib-Knit Cashmere Sweater,"$1,495",Sweaters
+233,The Row,Jackson Rib-Knit Cashmere Sweater,"$1,695",Sweaters
+234,ATM Anthony Thomas Melillo,Brushed Wool-Blend Sweater,$395,Sweaters
+235,Massimo Alba,Striped Alpaca-Blend Crewneck Sweater,$650,Sweaters
+236,Rag & Bone,Andrew Rib-Knit Zip-Front Sweater,$495,Sweaters
+237,Barneys New York,Virgin Wool Polo Sweater,$375,Sweaters
+238,Barneys New York,Textured-Knit Cotton V-Neck Sweater,$465,Sweaters
+239,Barneys New York,Wool Jacket-Style Cardigan,$995,Sweaters
+240,Barneys New York,Textured-Knit Cotton V-Neck Sweater,$465,Sweaters
+241,Needles,Leopard-Jacquard Mohair-Blend Sweater,$440,Sweaters
+242,Barneys New York,Wool Polo Sweater,$375,Sweaters
+243,Barneys New York,Virgin Wool Polo Sweater,$375,Sweaters
+244,Balenciaga,Logo-Knit Wool-Blend Sweater,"$1,215",Sweaters
+245,UPSTAIRS AT ERIC'S,"""B.I.G."" Cotton Jersey T-Shirt",$565,Sweaters
+246,Barneys New York,Virgin Wool Half-Zip Sweater,$325,Sweaters
+247,Barneys New York,Cashmere V-Neck Sweater,$475,Sweaters
+248,Saint Laurent,Abstract-Pattern Mohair-Blend Oversized Hoodie,"$1,990",Sweaters
+249,Barneys New York,Mélange Wool Quarter-Zip Sweater,$325,Sweaters
+250,Barneys New York,Wool Polo Sweater,$375,Sweaters
+251,Barneys New York,Cashmere Quarter-Zip Sweater,$550,Sweaters
+252,Barneys New York,Mélange Wool Quarter-Zip Sweater,$325,Sweaters
+253,Thom Browne,Block-Striped Wool V-Neck Cardigan,$950,Sweaters
+254,Barneys New York,Cashmere Half-Zip Sweater,$550,Sweaters
+255,Barneys New York,Compact Knit Wool Zip-Front Sweater,$525,Sweaters
+256,Barneys New York,Mélange Wool Turtleneck Sweater,$250,Sweaters
+257,Barneys New York,Cashmere Half-Zip Mock-Turtleneck Sweater,$550,Sweaters
+258,Barneys New York,Cashmere Quarter-Zip Sweater,$550,Sweaters
+259,Barneys New York,Cashmere V-Neck Sweater,$475,Sweaters
+260,Barneys New York,Cashmere V-Neck Sweater,$475,Sweaters
+261,Barneys New York,Cashmere V-Neck Sweater,$475,Sweaters
+262,Barneys New York,Cashmere V-Neck Sweater,$475,Sweaters
+263,Loro Piana,Piqué-Knit Wool-Cashmere Polo Shirt,"$1,195",Sweaters
+264,Isaia,Honeycomb-Knit Wool Cardigan,"$1,295",Sweaters
+265,Balenciaga,Logo-Jacquard Wool-Blend Oversized Sweater,"$1,390",Sweaters
+266,Balenciaga,Rib-Knit Hooded Top,"$1,050",Sweaters
+267,Stone Island XO Barneys New York,Logo-Appliquéd Wool Sweater,$480,Sweaters
+268,Onia,Monstera-Leaf Cashmere Hoodie,$345,Sweaters
+269,Stone Island,Wool Half-Zip Sweater,$745,Sweaters
+270,Sacai,Tech-Fabric-Inset Wool Sweater,$830,Sweaters
+271,Onia,Palm-Tree Cashmere Hoodie,$345,Sweaters
+272,Officine Générale,Merino Wool Half-Zip Sweater,$475,Sweaters
+273,Officine Générale,Wool Turtleneck Sweater,$415,Sweaters
+274,S.MORITZ,Mélange Yak Sweater,$395,Sweaters
+275,S.MORITZ,Mélange Knit Sweater,$395,Sweaters
+276,S.MORITZ,Yak Crewneck Sweater,$395,Sweaters
+277,Balenciaga,BB-Logo Cotton-Blend Rugby Sweater,"$1,590",Sweaters
+278,Barneys New York,Cable-Knit Wool-Mohair Turtleneck Sweater,$450,Sweaters
+279,Barneys New York,Cable-Knit Wool-Mohair Turtleneck Sweater,$450,Sweaters
+280,Gucci,Anime-Intarsia Wool Sweater,"$1,280",Sweaters
+281,Barneys New York,Cable-Knit Wool-Mohair Turtleneck Sweater,$450,Sweaters
+282,ATM Anthony Thomas Melillo,Cotton-Blend Terry Hoodie,$109,Sweaters
+283,R13,Leopard-Pattern Cashmere Hoodie,$995,Sweaters
+284,Givenchy,Alpha Logo Wool Sweater,"$1,330",Sweaters
+285,Fioroni,Fine-Gauge Knit Cashmere Sweater,$695,Sweaters
+286,ATM Anthony Thomas Melillo,Cotton French Terry Hoodie,$109,Sweaters
+287,The Elder Statesman,Kamasutra Fair Isle Cashmere Sweater,"$1,380",Sweaters
+288,R13,Plaid Birdseye-Knit Cashmere Hoodie,$995,Sweaters
+289,Lanvin,Merino Wool-Alpaca Cardigan,$995,Sweaters
+290,CALVIN KLEIN 205W39NYC,Striped Reverse-Stitched Wool-Blend Sweater,"$1,250",Sweaters
+291,Cifonelli,Wool V-Neck Sweater,$595,Sweaters
+292,Saint Laurent,Skeleton-Knit Wool Sweater,"$1,290",Sweaters
+293,Tomas Maier,Mélange Wool Sweater,$198,Sweaters
+294,Martin Grant,Merino Wool Turtleneck Sweater,$700,Sweaters
+295,Stone Island,Knit Wool Sweater,$380,Sweaters
+296,The Elder Statesman,Rib-Knit Cashmere Sweater,"$1,275",Sweaters
+297,The Elder Statesman,Fair Isle Cashmere Sweater,"$1,815",Sweaters
+298,Kenzo,Tiger-Knit Wool Sweater,$395,Sweaters
+299,Thom Browne,Block-Striped Wool Cardigan,$950,Sweaters
+300,The Elder Statesman,"""Meditate"" Cashmere Sweater","$1,555",Sweaters
+301,The Elder Statesman,Evil Eye Tie-Dyed Cashmere Sweater,"$1,645",Sweaters
+302,Loro Piana,Cable-Knit Cashmere Half-Zip Sweater,"$1,795",Sweaters
+303,Givenchy,Star-Appliquéd Wool Sweater,$695,Sweaters
+304,Rick Owens,Rib-Knit Wool Hooded Cardigan,"$1,320",Sweaters
+305,Theory,Cashmere Zip-Front Hoodie,$495,Sweaters
+306,Theory,Detroe Merino Wool Half-Zip Sweater,$295,Sweaters
+307,The Elder Statesman,Striped Cashmere Baja Hoodie,"$2,135",Sweaters
+308,Rag & Bone,Gregory Waffle-Knit Wool Henley,$250,Sweaters
+309,GmbH,Arthur Patchwork Quarter-Zip Sweater,"$1,230",Sweaters
+310,Ermenegildo Zegna,Wool-Cashmere Crewneck Sweater,$795,Sweaters
+311,Ermenegildo Zegna,Cashmere-Silk V-Neck Sweater,$825,Sweaters
+312,Ermenegildo Zegna,Cashmere-Silk V-Neck Sweater,$825,Sweaters
+313,Ermenegildo Zegna,Cashmere-Silk Turtleneck Sweater,$845,Sweaters
+314,Thom Browne,Block-Striped Wool Sweater,$875,Sweaters
+315,Thom Browne,Block-Striped Cashmere Cardigan,"$1,790",Sweaters
+316,Thom Browne,Block-Striped Wool Sweater,$875,Sweaters
+317,Thom Browne,Colorblocked Compact-Wool V-Neck Cardigan,"$1,090",Sweaters
+318,Thom Browne,Colorblocked Compact-Knit Wool Crewneck Sweater,$890,Sweaters
+319,Saint Laurent,Leopard Jacquard Sweater,"$1,290",Sweaters
+320,Saint Laurent,Blocked-Striped Mohair-Blend Oversized Sweater,$950,Sweaters
+321,Thom Browne,Rib-Knit Cotton Cardigan,$769,Sweaters
+322,Rick Owens,Rib-Knit Virgin Wool Crewneck Fisherman Sweater,$840,Sweaters
+323,Gucci,Star-Knit Wool Sweater,"$1,350",Sweaters
+324,Piattelli,Cotton-Blend V-Neck Sweater,$99,Sweaters
+325,Barneys New York,Mélange Terry T-Shirt,$115,Sweaters
+326,AMI Alexandre Mattiussi,Smiley-Patch Merino Wool Sweater,$305,Sweaters
+327,Prada,Stockinette-Stitched Cashmere Sweater,$840,Sweaters
+328,Prada,Cashmere Crewneck Sweater,$950,Sweaters
+329,Prada,Stockinette-Stitched Cashmere Sweater,$840,Sweaters
+330,Thom Browne,Block-Striped Cashmere Cardigan,"$1,790",Sweaters
+331,Acne Studios,Nalon S Emoji Wool Sweatshirt,$300,Sweaters
+332,Loro Piana,Mélange Cashmere Polo Sweater,"$1,895",Sweaters
+333,Fioroni,Virgin Wool-Cashmere Polo Shirt,$495,Sweaters
+334,Massimo Alba,Cashmere Raglan-Sleeve Sweater,$675,Sweaters
+335,Comme des Garçons PLAY,Heart Wool V-Neck Sweater,$300,Sweaters
+336,Prada,Cashmere Crewneck Sweater,$840,Sweaters
+337,Comme des Garçons PLAY,Heart Wool V-Neck Sweater,$300,Sweaters
+338,Comme des Garçons PLAY,Heart Wool V-Neck Sweater,$300,Sweaters
+339,R13,Distressed Cashmere Sweater,$695,Sweaters
+340,Officine Générale,Cashmere Turtleneck Sweater,$450,Sweaters
+341,Loro Piana,Cable-Knit Cashmere Quarter-Zip Pullover,"$1,795",Sweaters
+342,Barneys New York,Fine-Gauge Knit Cashmere Sweater,$270,Sweaters
+343,Thom Browne,Block-Striped Wool Cardigan,$950,Sweaters
+344,LOEWE,Fringe Striped Wool-Alpaca Sweater,$890,Sweaters
+345,LOEWE,Striped Zip-Front Cardigan,"$1,290",Sweaters
+346,Thom Browne,Block-Striped Wool Cardigan,$950,Sweaters
+347,Thom Browne,Block-Striped Wool Sweater,$875,Sweaters
+348,Thom Browne,Block-Striped Wool Sweater,$875,Sweaters
+349,Thom Browne,Striped-Sleeve Cashmere Cardigan,"$1,790",Sweaters
+350,Comme des Garçons PLAY,Heart Wool Cardigan,$415,Sweaters
+351,Brioni,Wool-Blend Sweater,$875,Sweaters
+352,Brioni,Wool-Blend V-Neck Sweater,$875,Sweaters
+353,Brioni,Wool-Blend V-Neck Sweater,$875,Sweaters
+354,Brioni,Wool-Blend Sweater,$875,Sweaters
+355,Brioni,Wool-Blend Sweater,$875,Sweaters
+356,Rick Owens,Cashmere Long Robe Sweater,"$2,760",Sweaters
+357,Comme des Garçons PLAY,Heart Wool Sweater,$300,Sweaters
+358,Comme des Garçons PLAY,Heart Wool Cardigan,$465,Sweaters
+359,Comme des Garçons PLAY,Heart Wool Sweater,$300,Sweaters
+360,Barneys New York,Wool Crewneck Sweater,$285,Sweaters
+361,Fioroni,Duvet Cashmere V-Neck Sweater,$895,Sweaters
+362,Barneys New York,Cashmere V-Neck Sweater,$250,Sweaters
+363,Comme des Garçons PLAY,Heart Wool V-Neck Sweater,$330,Sweaters
+364,Comme des Garçons PLAY,Heart Wool Cardigan,$380,Sweaters
+365,Comme des Garçons PLAY,Heart Wool V-Neck Sweater,$410,Sweaters
+366,Barneys New York,Virgin Wool Mock-Turtleneck Zip-Front Sweater,$325,Sweaters
+367,Massimo Alba,Melton Sweater,$795,Sweaters
+368,Comme des Garçons PLAY,Heart Wool Cardigan,$380,Sweaters
+369,Fioroni,Duvet Cashmere V-Neck Sweater,$895,Sweaters
+370,Barneys New York,Wool V-Neck Sweater,$285,Sweaters
+371,Comme des Garçons PLAY,Heart Wool Cardigan,$465,Sweaters
+372,Barneys New York,Wool V-Neck Sweater,$285,Sweaters
+373,Barneys New York,Wool Half-Zip Sweater,$325,Sweaters
+374,Barneys New York,Cashmere Crewneck Sweater,$270,Sweaters
+375,Fioroni,Duvet Cashmere V-Neck Sweater,$895,Sweaters
+376,Barneys New York,Wool Crewneck Sweater,$285,Sweaters
+377,Comme des Garçons PLAY,Heart Wool V-Neck Cardigan,$415,Sweaters
+378,Barneys New York,Wool V-Neck Sweater,$285,Sweaters
+379,Barneys New York,Wool Half-Zip Sweater,$325,Sweaters
+380,Officine Générale,Cashmere Sweater,$450,Sweaters
+381,Officine Générale,Cashmere-Wool Crewneck Sweater,$450,Sweaters
+382,Comme des Garçons PLAY,Heart Wool Cardigan,$345,Sweaters
+383,Barneys New York,Wool Crewneck Sweater,$285,Sweaters
+384,Lanvin,Merino Wool Piqué-Knit Sweater,$499,Sweaters

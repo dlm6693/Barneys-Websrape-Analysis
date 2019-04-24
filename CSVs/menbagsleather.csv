@@ -1,0 +1,922 @@
+,Brand,Product_Name,Price,Category
+0,Fendi,FF Logo Coated Canvas & Leather Card Case,$320,Bags/Leather_Goods
+1,Balenciaga,Explorer Pouch,$695,Bags/Leather_Goods
+2,Balenciaga,Everyday Leather Belt Bag,"$1,250",Bags/Leather_Goods
+3,Balenciaga,Explorer Leather Chain Wallet,$550,Bags/Leather_Goods
+4,Balenciaga,Everyday Leather Zip-Around Wallet,$750,Bags/Leather_Goods
+5,Balenciaga,Leather Zip-Around Card Case,$490,Bags/Leather_Goods
+6,Fendi,FF Logo Coated Canvas & Leather Card Case,$320,Bags/Leather_Goods
+7,Gucci,NY Yankees™ Leather Card Case,$320,Bags/Leather_Goods
+8,Fendi,Logo-Stamp-Appliquéd Coated Canvas Billfold,$490,Bags/Leather_Goods
+9,Fendi,Fendi Fiend Leather Card Case,$320,Bags/Leather_Goods
+10,Balenciaga,Explorer Tablet Case,$650,Bags/Leather_Goods
+11,Balenciaga,Colorblocked Backpack,"$1,590",Bags/Leather_Goods
+12,Balenciaga,Arena Leather Explorer Chain Wallet,$770,Bags/Leather_Goods
+13,Balenciaga,Explorer Tablet Case,$650,Bags/Leather_Goods
+14,Balenciaga,Everyday Leather Belt Bag,"$1,250",Bags/Leather_Goods
+15,Balenciaga,Market Shopper Leather Tote Bag,"$2,350",Bags/Leather_Goods
+16,Balenciaga,Explorer Leather Belt Bag,"$1,380",Bags/Leather_Goods
+17,Balenciaga,Arena Leather Explorer Belt Bag,"$1,250",Bags/Leather_Goods
+18,Christian Louboutin,Explorafunk Leather & Suede Backpack,"$2,590",Bags/Leather_Goods
+19,Christian Louboutin,Backloubi Leather-Trimmed Velvet Backpack,"$1,550",Bags/Leather_Goods
+20,Christian Louboutin,Loubislide Leather Card Case,$280,Bags/Leather_Goods
+21,Balenciaga,Explorer Backpack,"$1,050",Bags/Leather_Goods
+22,Balenciaga,Explorer Belt Bag,$895,Bags/Leather_Goods
+23,Christian Louboutin,Panettone Leather Wallet,$670,Bags/Leather_Goods
+24,Balenciaga,Explorer Belt Bag,$850,Bags/Leather_Goods
+25,Christian Louboutin,Clipsos Leather Money-Clip Billfold,$480,Bags/Leather_Goods
+26,Balenciaga,Arena Leather Bazar Shopper Tote Bag,"$2,490",Bags/Leather_Goods
+27,Christian Louboutin,Kios Leather Card Case,$290,Bags/Leather_Goods
+28,Balenciaga,Logo Wheel Backpack,"$1,045",Bags/Leather_Goods
+29,Christian Louboutin,Explorafunk Leather Backpack,"$2,590",Bags/Leather_Goods
+30,Alexander McQueen,Crocodile-Stamped Leather Billfold,$365,Bags/Leather_Goods
+31,Valentino Garavani,Broken Logo Leather Billfold,$475,Bags/Leather_Goods
+32,Valentino Garavani,Broken-Logo Leather Card Case,$295,Bags/Leather_Goods
+33,Christian Louboutin,Kios Leather Card Case,$320,Bags/Leather_Goods
+34,Givenchy,MC3 Crossbody Bag,"$1,195",Bags/Leather_Goods
+35,AMIRI,Beverly Hills-Print Silk Bandana Key Chain,$295,Bags/Leather_Goods
+36,AMIRI,"""Hollywood"" Silk Bandana Key Chain",$295,Bags/Leather_Goods
+37,AMIRI,Palm-Tree-Print Silk Bandana Key Chain,$170,Bags/Leather_Goods
+38,Tumi,Alpha Bravo Hunter Satchel,$500,Bags/Leather_Goods
+39,Tumi,Alpha 3 Brief Backpack,$550,Bags/Leather_Goods
+40,Tumi,Alpha 3 Double Expansion Duffel,$450,Bags/Leather_Goods
+41,Fendi,Snake-Print Leather Card Case,$350,Bags/Leather_Goods
+42,Comme des Garçons,Diamond-Stamped Leather Zip-Around Wallet,$365,Bags/Leather_Goods
+43,Tumi,Alpha 3 Slim Deluxe Portfolio,$350,Bags/Leather_Goods
+44,Tumi,Alpha 3 Compact Large-Screen Laptop Briefcase,$450,Bags/Leather_Goods
+45,Tumi,Alpha Bravo Nellis Backpack,$425,Bags/Leather_Goods
+46,Tumi,Arrivé Sadler Briefcase,$895,Bags/Leather_Goods
+47,Tumi,Arrivé Barker Backpack,$950,Bags/Leather_Goods
+48,Bottega Veneta,Intrecciato Card Case,$350,Bags/Leather_Goods
+49,Bottega Veneta,Intrecciato Mini-Billfold,$410,Bags/Leather_Goods
+50,Bottega Veneta,Intrecciato Billfold,$460,Bags/Leather_Goods
+51,Bottega Veneta,Intrecciato Card Case,$270,Bags/Leather_Goods
+52,Bottega Veneta,Intrecciato Billfold,$460,Bags/Leather_Goods
+53,WANT LES ESSENTIELS,Hartsfield Weekender Bag,$450,Bags/Leather_Goods
+54,Bottega Veneta,Intrecciato Card Case,$350,Bags/Leather_Goods
+55,Prada,Leather Billfold,$395,Bags/Leather_Goods
+56,Bottega Veneta,Intrecciato Card Case,$270,Bags/Leather_Goods
+57,Saint Laurent,Card Case,$255,Bags/Leather_Goods
+58,Comme des Garçons,Plaid Zip Pouch,$140,Bags/Leather_Goods
+59,Givenchy,Eros Zip Pouch,$420,Bags/Leather_Goods
+60,Comme des Garçons,Plaid Zip Pouch,$140,Bags/Leather_Goods
+61,Barneys New York,Sterling Silver Short Tie Bar,$95,Bags/Leather_Goods
+62,WANT LES ESSENTIELS,O'Hare Shopper Tote,$250,Bags/Leather_Goods
+63,Prada,Money Clip Billfold,$380,Bags/Leather_Goods
+64,Bottega Veneta,Intrecciato Top Zip Card Case,$350,Bags/Leather_Goods
+65,Bottega Veneta,Intrecciato Key Chain,$230,Bags/Leather_Goods
+66,Saint Laurent,Top-Zip Pouch,$295,Bags/Leather_Goods
+67,Bottega Veneta,Intrecciato Key Chain,$230,Bags/Leather_Goods
+68,Bottega Veneta,Intrecciato Key Chain,$230,Bags/Leather_Goods
+69,Barneys New York,Paperclip Money Clip,$150,Bags/Leather_Goods
+70,Saint Laurent,Billfold,$385,Bags/Leather_Goods
+71,Thom Browne,Card Case,$290,Bags/Leather_Goods
+72,Comme des Garçons,Zip-Around Wallet,$325,Bags/Leather_Goods
+73,Bottega Veneta,Intrecciato Card Case,$270,Bags/Leather_Goods
+74,Saint Laurent,Card Case,$255,Bags/Leather_Goods
+75,Comme des Garçons,Raised Spike Wallet,$215,Bags/Leather_Goods
+76,Christian Louboutin,Paros Wallet,$450,Bags/Leather_Goods
+77,Comme des Garçons,Plaid Zip-Around Wallet,$130,Bags/Leather_Goods
+78,Saint Laurent,Zip Pouch,$295,Bags/Leather_Goods
+79,WANT LES ESSENTIELS,O'Hare Shopper Tote,$250,Bags/Leather_Goods
+80,Comme des Garçons,Zip Pouch,$175,Bags/Leather_Goods
+81,Comme des Garçons,Plaid Coin Pocket Zip-Around Wallet,$225,Bags/Leather_Goods
+82,Thom Browne,Note-Compartment Card Case,$380,Bags/Leather_Goods
+83,Comme des Garçons,Channel-Stitched Zip Pouch,$100,Bags/Leather_Goods
+84,Prada,Folding Card Case,$320,Bags/Leather_Goods
+85,Christian Louboutin,Explorafunk Backpack,"$2,450",Bags/Leather_Goods
+86,Barneys New York,Nail-Shaped Sterling Silver Key Ring,$125,Bags/Leather_Goods
+87,Christian Louboutin,Panettone Wallet,$670,Bags/Leather_Goods
+88,Prada,Tote Bag,$920,Bags/Leather_Goods
+89,WANT LES ESSENTIELS,O'Hare Shopper Tote Bag,$250,Bags/Leather_Goods
+90,Balenciaga,Classic Backpack,$895,Bags/Leather_Goods
+91,Fendi,Bag Bugs Leather Card Case,$300,Bags/Leather_Goods
+92,Prada,Sling Backpack,"$1,120",Bags/Leather_Goods
+93,Gucci,Logo Drawstring Backpack,"$1,980",Bags/Leather_Goods
+94,Prada,Belt Bag,$895,Bags/Leather_Goods
+95,Christian Louboutin,Kios Leather Card Case,$280,Bags/Leather_Goods
+96,Christian Louboutin,Clipsos Leather Money-Clip Billfold,$420,Bags/Leather_Goods
+97,Christian Louboutin,Signature-Sole Key Chain,$240,Bags/Leather_Goods
+98,WANT LES ESSENTIELS,Tacoma Canvas Belt Bag,$195,Bags/Leather_Goods
+99,Christian Louboutin,Clipsos Money Clip Billfold,$450,Bags/Leather_Goods
+100,Christian Louboutin,Kios Leather Card Case,$290,Bags/Leather_Goods
+101,Balenciaga,Logo Leather Card Case,$295,Bags/Leather_Goods
+102,Saint Laurent,Studded Leather Card Case,$275,Bags/Leather_Goods
+103,Gucci,Star Key Chain,$240,Bags/Leather_Goods
+104,Prada,Leather Billfold,$440,Bags/Leather_Goods
+105,Prada,Leather Card Case,$260,Bags/Leather_Goods
+106,Salvatore Ferragamo,Revival Leather Billfold,$395,Bags/Leather_Goods
+107,Salvatore Ferragamo,Revival Card Case,$295,Bags/Leather_Goods
+108,Salvatore Ferragamo,Revival Leather Card Case,$295,Bags/Leather_Goods
+109,Serapian,Evolution Leather Billfold,$375,Bags/Leather_Goods
+110,Serapian,Evolution Leather Card Case,$165,Bags/Leather_Goods
+111,Prada,City Sport Leather Billfold,$420,Bags/Leather_Goods
+112,Prada,City Sport Leather Folding Card Case,$320,Bags/Leather_Goods
+113,Prada,City Sport Leather Card Case,$260,Bags/Leather_Goods
+114,Givenchy,Leather Card Case,$365,Bags/Leather_Goods
+115,Prada,Belt Bag,"$1,020",Bags/Leather_Goods
+116,Gucci,NY Yankees™ Backpack,"$2,390",Bags/Leather_Goods
+117,Gucci,Appliquéd Convertible Belt Bag,"$1,490",Bags/Leather_Goods
+118,Gucci,NY Yankees™ Oversized Convertible Belt Bag,"$1,590",Bags/Leather_Goods
+119,Gucci,NY Yankees™ Satin Backpack,"$2,390",Bags/Leather_Goods
+120,Gucci,Logo Key Chain,$220,Bags/Leather_Goods
+121,Prada,Leather-Trimmed Belt Bag,$650,Bags/Leather_Goods
+122,Salvatore Ferragamo,Revival Leather Billfold,$395,Bags/Leather_Goods
+123,Salvatore Ferragamo,Revival Leather Billfold,$395,Bags/Leather_Goods
+124,Saint Laurent,Pineapple-Embossed Leather Card Case,$275,Bags/Leather_Goods
+125,Saint Laurent,Leather Top-Zip Card Case,$325,Bags/Leather_Goods
+126,Saint Laurent,Leather Card Case,$275,Bags/Leather_Goods
+127,Prada,Leather Card Case,$240,Bags/Leather_Goods
+128,Prada,Leather Billfold,$395,Bags/Leather_Goods
+129,Prada,Leather Pouch,$650,Bags/Leather_Goods
+130,Gucci,Appliquéd Backpack,"$1,450",Bags/Leather_Goods
+131,Balenciaga,Leather Pouch,$750,Bags/Leather_Goods
+132,Bottega Veneta,Intrecciato Leather Billfold,$460,Bags/Leather_Goods
+133,Balenciaga,Embroidered Belt Bag,$850,Bags/Leather_Goods
+134,Gucci,LA Dodgers™ GG-Pattern Leather Card Case,$320,Bags/Leather_Goods
+135,Gucci,LA Dodgers™ Convertible GG Supreme Belt Bag,"$1,450",Bags/Leather_Goods
+136,Gucci,NY Yankees™ Canvas Backpack,"$1,450",Bags/Leather_Goods
+137,Gucci,NY Yankees™ GG Supreme Card Case,$270,Bags/Leather_Goods
+138,Gucci,NY Yankees™ GG Supreme Billfold,$420,Bags/Leather_Goods
+139,Prada,Small Nylon Keychain Pouch,$280,Bags/Leather_Goods
+140,Bottega Veneta,Intrecciato Leather Key Chain,$230,Bags/Leather_Goods
+141,Bottega Veneta,Intrecciato Leather Key Chain,$230,Bags/Leather_Goods
+142,Bottega Veneta,Intrecciato Leather Key Chain,$230,Bags/Leather_Goods
+143,Off-White c/o Virgil Abloh,Belt Bag,$725,Bags/Leather_Goods
+144,Alexander McQueen,Skull Money Clip,$130,Bags/Leather_Goods
+145,Alexander McQueen,Skull Bottle Opener Key Chain,$390,Bags/Leather_Goods
+146,Salvatore Ferragamo,Gancio Arrow Leather Billfold,$450,Bags/Leather_Goods
+147,Gucci,Coated Canvas Card Case,$270,Bags/Leather_Goods
+148,Gucci,Coated Canvas Card Case,$270,Bags/Leather_Goods
+149,Gucci,Logo Leather Backpack,"$1,980",Bags/Leather_Goods
+150,Saint Laurent,Studded Leather Top-Zip Card Case,$395,Bags/Leather_Goods
+151,Gucci,Logo Key Chain,$220,Bags/Leather_Goods
+152,Gucci,Beach Scene Keychain,$390,Bags/Leather_Goods
+153,Herschel Supply Co.,Tour Medium Belt Bag,$45,Bags/Leather_Goods
+154,Y-3,Mobility Extra-Small Backpack,$280,Bags/Leather_Goods
+155,Balenciaga,Logo Leather Card Case,$350,Bags/Leather_Goods
+156,Balenciaga,Arena Leather Bazar Billfold,$550,Bags/Leather_Goods
+157,Balenciaga,Everyday Key Chain,$270,Bags/Leather_Goods
+158,Balenciaga,Logo Leather Billfold,$395,Bags/Leather_Goods
+159,Givenchy,Lion-Graphic Leather Card Case,$225,Bags/Leather_Goods
+160,Givenchy,Logo Key-Ring Lanyard,$275,Bags/Leather_Goods
+161,Givenchy,Logo Key-Ring Lanyard,$275,Bags/Leather_Goods
+162,Givenchy,Leather Card Case,$320,Bags/Leather_Goods
+163,Givenchy,Leather Card Case,$420,Bags/Leather_Goods
+164,Givenchy,Leather Folding Card Case,$385,Bags/Leather_Goods
+165,Givenchy,Lion-Graphic Folding Card Case,$245,Bags/Leather_Goods
+166,Givenchy,Eros Card Case,$275,Bags/Leather_Goods
+167,Givenchy,Leather Card Case,$275,Bags/Leather_Goods
+168,Givenchy,Leather Folding Card Case,$450,Bags/Leather_Goods
+169,Salvatore Ferragamo,Revival Leather Card Case,$295,Bags/Leather_Goods
+170,Saint Laurent,Pineapple Skull Leather Card Case,$310,Bags/Leather_Goods
+171,Off-White c/o Virgil Abloh,Leather Card Case,$255,Bags/Leather_Goods
+172,A-COLD-WALL*,Cutout Leather Card Case,$205,Bags/Leather_Goods
+173,Comme des Garçons,Denim Zip-Around Wallet,$210,Bags/Leather_Goods
+174,Balenciaga,Everyday Key Chain,$270,Bags/Leather_Goods
+175,Comme des Garçons,Denim Folding Card Case,$195,Bags/Leather_Goods
+176,Balenciaga,Everyday Key Chain,$270,Bags/Leather_Goods
+177,Comme des Garçons,Denim Half-Zip Wallet,$105,Bags/Leather_Goods
+178,Gucci,NY Yankees™ Leather Billfold,$520,Bags/Leather_Goods
+179,Comme des Garçons,Denim Zip-Around Wallet,$375,Bags/Leather_Goods
+180,Comme des Garçons,Denim Small Pouch,$90,Bags/Leather_Goods
+181,Fendi,Logo-Stamp-Appliquéd Leather Card Case,$350,Bags/Leather_Goods
+182,Gucci,Coated Canvas Slim Billfold,$340,Bags/Leather_Goods
+183,Gucci,Coated Canvas Card Case,$270,Bags/Leather_Goods
+184,Maison Margiela,Canvas Belt Bag,$495,Bags/Leather_Goods
+185,Bottega Veneta,Intrecciato Card Case,$300,Bags/Leather_Goods
+186,Bottega Veneta,Intrecciato Card Case,$300,Bags/Leather_Goods
+187,mastermind JAPAN,Skull iPhone® 7/8 Case,$65,Bags/Leather_Goods
+188,mastermind JAPAN,Skull iPhone® X Case,$65,Bags/Leather_Goods
+189,Christian Louboutin,Signature-Sole Key Chain,$250,Bags/Leather_Goods
+190,Prada,Montagna Belt Bag,$695,Bags/Leather_Goods
+191,Herschel Supply Co.,Winlaw Extra Large Backpack,$90,Bags/Leather_Goods
+192,Off-White c/o Virgil Abloh,Logo-Embossed Key Chain,$220,Bags/Leather_Goods
+193,WANT LES ESSENTIELS,Tacoma Cotton Canvas Belt Bag,$195,Bags/Leather_Goods
+194,Christian Louboutin,Backloubi Leather-Trimmed Backpack,"$1,690",Bags/Leather_Goods
+195,Balenciaga,Everyday Key Chain,$270,Bags/Leather_Goods
+196,Alexander McQueen,Croc-Embossed Leather Card Case,$215,Bags/Leather_Goods
+197,Balenciaga,Everyday Key Chain,$270,Bags/Leather_Goods
+198,Off-White c/o Virgil Abloh,Denim Belt Bag,$500,Bags/Leather_Goods
+199,Off-White c/o Virgil Abloh,Denim Camera Bag,$475,Bags/Leather_Goods
+200,Off-White c/o Virgil Abloh,Denim Crossbody Bag,$715,Bags/Leather_Goods
+201,Off-White c/o Virgil Abloh,"""Monalisa"" Canvas Backpack",$735,Bags/Leather_Goods
+202,Off-White c/o Virgil Abloh,Skull-Motif Satin Backpack,$585,Bags/Leather_Goods
+203,Fendi,Logo-Stamp-Appliquéd Coated Canvas Billfold,$750,Bags/Leather_Goods
+204,Fendi,Snake-Print Leather Pouch,$890,Bags/Leather_Goods
+205,Thom Browne,Zip-Around Leather Pouch,$790,Bags/Leather_Goods
+206,Balenciaga,Large Tote Bag,"$1,590",Bags/Leather_Goods
+207,Christian Louboutin,Parislisboa Loubicity Weekend Bag,"$1,850",Bags/Leather_Goods
+208,Christian Louboutin,Explorafunk Leather Backpack,"$3,150",Bags/Leather_Goods
+209,Valentino Garavani,Logo Belt Bag,$945,Bags/Leather_Goods
+210,Givenchy,Tag Leather Crossbody Bag,"$1,590",Bags/Leather_Goods
+211,Saint Laurent,City Embellished Canvas Backpack,"$2,690",Bags/Leather_Goods
+212,Saint Laurent,Leather Belt Bag,$890,Bags/Leather_Goods
+213,Alexander McQueen,Skeleton-Motif Leather Card Case,$175,Bags/Leather_Goods
+214,Alexander McQueen,Painter's Palette Leather Billfold,$380,Bags/Leather_Goods
+215,Givenchy,Tag Leather Belt Bag,"$1,490",Bags/Leather_Goods
+216,Herschel Supply Co.,Barnes Camouflage Tote Bag,$80,Bags/Leather_Goods
+217,Troubadour,Adventure Slipstream Canvas Backpack,$495,Bags/Leather_Goods
+218,WANT LES ESSENTIELS,Heathrow Commuter Bag,$450,Bags/Leather_Goods
+219,Comme des Garçons,Large Zip Pouch,$210,Bags/Leather_Goods
+220,Boldrini Selleria,Large Messenger Bag,$595,Bags/Leather_Goods
+221,Thom Browne,Zip Pouch,$620,Bags/Leather_Goods
+222,Comme des Garçons,Large Zip Pouch,$210,Bags/Leather_Goods
+223,Bric's,"Life 18"" Duffel Bag",$465,Bags/Leather_Goods
+224,Comme des Garçons,Large Zip Pouch,$140,Bags/Leather_Goods
+225,Serapian,"Evolution 20"" Duffel","$1,750",Bags/Leather_Goods
+226,Thom Browne,Hector Dog Bag,"$2,600",Bags/Leather_Goods
+227,Bottega Veneta,Intrecciato Money Clip Card Case,$460,Bags/Leather_Goods
+228,Bottega Veneta,Intrecciato Billfold,$460,Bags/Leather_Goods
+229,Salvatore Ferragamo,Revival Billfold,$450,Bags/Leather_Goods
+230,Comme des Garçons,Raised Spike Small Zip Pouch,$200,Bags/Leather_Goods
+231,Barneys New York,Alligator Billfold,$725,Bags/Leather_Goods
+232,Comme des Garçons,Luxury Large Zip Pouch,$245,Bags/Leather_Goods
+233,Bottega Veneta,Intrecciato Zip-Around Card Case,$390,Bags/Leather_Goods
+234,Comme des Garçons,Raised Spike Small Zip Pouch,$200,Bags/Leather_Goods
+235,Serapian,"Evolution 20"" Duffel","$1,750",Bags/Leather_Goods
+236,Salvatore Ferragamo,Revival Credit Card Holder,$295,Bags/Leather_Goods
+237,Porter,Smokey Backpack,$330,Bags/Leather_Goods
+238,Barneys New York,Sterling Silver Long Tie Bar,$95,Bags/Leather_Goods
+239,Barneys New York,Ostrich Billfold,$450,Bags/Leather_Goods
+240,Comme des Garçons,Half-Zip Wallet,$175,Bags/Leather_Goods
+241,Prada,Paperclip-Shaped Money Clip,$170,Bags/Leather_Goods
+242,Comme des Garçons,Luxury Large Zip Pouch,$245,Bags/Leather_Goods
+243,Comme des Garçons,Zip-Around Wallet,$365,Bags/Leather_Goods
+244,Comme des Garçons,Half-Zip Wallet,$180,Bags/Leather_Goods
+245,Barneys New York,Card Case,$140,Bags/Leather_Goods
+246,Comme des Garçons,Small Zip Pouch,$130,Bags/Leather_Goods
+247,Comme des Garçons,Plaid Zip-Around Wallet,$130,Bags/Leather_Goods
+248,Comme des Garçons,Small Zip Pouch,$165,Bags/Leather_Goods
+249,Prada,Business Card Case,$300,Bags/Leather_Goods
+250,Comme des Garçons,Plaid Coin Pocket Zip-Around Wallet,$225,Bags/Leather_Goods
+251,Alexander McQueen,Rib-Cage Embossed Card Case,$165,Bags/Leather_Goods
+252,Barneys New York,Twisted Paperclip Money Clip,$150,Bags/Leather_Goods
+253,Comme des Garçons,Raised Spike Wallet,$215,Bags/Leather_Goods
+254,Barneys New York,Alligator Folding Card Case,$495,Bags/Leather_Goods
+255,Thom Browne,ID Card Case,$440,Bags/Leather_Goods
+256,Gucci,Duffel Bag,"$1,100",Bags/Leather_Goods
+257,Thom Browne,Money Clip Billfold,$450,Bags/Leather_Goods
+258,Barneys New York,Sterling Silver Tie Bar,$95,Bags/Leather_Goods
+259,Barneys New York,Sterling Silver Tie Bar,$95,Bags/Leather_Goods
+260,Barneys New York,Sterling Silver Tiepin,$95,Bags/Leather_Goods
+261,Barneys New York,Sterling Silver Tiepin,$95,Bags/Leather_Goods
+262,Barneys New York,Sterling Silver Money Clip,$175,Bags/Leather_Goods
+263,Bric's,"Life 18"" Duffel Bag",$465,Bags/Leather_Goods
+264,Thom Browne,Key Holder,$590,Bags/Leather_Goods
+265,Barneys New York,Money-Clip Billfold,$295,Bags/Leather_Goods
+266,Prada,Utility Backpack,"$1,350",Bags/Leather_Goods
+267,WANT LES ESSENTIELS,Kastrup Backpack,$495,Bags/Leather_Goods
+268,Barneys New York,Large Zip Pouch,$165,Bags/Leather_Goods
+269,Christian Louboutin,Kios Leather Card Case,$290,Bags/Leather_Goods
+270,Gucci,Logo Billfold,$550,Bags/Leather_Goods
+271,Prada,Small Leather-Trimmed Duffel Bag,"$1,180",Bags/Leather_Goods
+272,Barneys New York,Sterling Silver Key Chain,$95,Bags/Leather_Goods
+273,T. Anthony,Classic Canvas & Leather Duffel Bag,$450,Bags/Leather_Goods
+274,Boldrini Selleria,Slim Leather Briefcase,$550,Bags/Leather_Goods
+275,Il Bisonte,Braided Leather Key Chain,$55,Bags/Leather_Goods
+276,Christian Louboutin,Kios Card Case,$290,Bags/Leather_Goods
+277,Barneys New York,Ostrich Folding Card Case,$395,Bags/Leather_Goods
+278,Comme des Garçons,Leather Half-Zip Wallet,$210,Bags/Leather_Goods
+279,Comme des Garçons,Large Leather Zip Pouch,$225,Bags/Leather_Goods
+280,Comme des Garçons,Small Leather Zip Pouch,$135,Bags/Leather_Goods
+281,Comme des Garçons,Small Leather Zip Pouch,$195,Bags/Leather_Goods
+282,Givenchy,Eros Leather Card Case,$260,Bags/Leather_Goods
+283,Saint Laurent,ID Gabardine Key Chain,$195,Bags/Leather_Goods
+284,Balenciaga,Logo Small Leather Supermarket Tote Bag,"$1,250",Bags/Leather_Goods
+285,Porter,Force Backpack,$545,Bags/Leather_Goods
+286,Saint Laurent,1971 Leather Billfold,$425,Bags/Leather_Goods
+287,Saint Laurent,1971 Leather Top-Zip Card Case,$345,Bags/Leather_Goods
+288,Saint Laurent,1971 Leather Card Case,$250,Bags/Leather_Goods
+289,Saint Laurent,"""Smoking Forever"" Leather Card Case",$275,Bags/Leather_Goods
+290,Saint Laurent,"""Smoking Forever"" Leather Top-Zip Card Case",$325,Bags/Leather_Goods
+291,Saint Laurent,Leather Glitter Billfold,$395,Bags/Leather_Goods
+292,Balenciaga,Explorer Leather Backpack,"$2,215",Bags/Leather_Goods
+293,Gucci,Logo Leather Billfold,$550,Bags/Leather_Goods
+294,Serapian,Evolution Leather Tote Bag,"$1,025",Bags/Leather_Goods
+295,Serapian,Milano Leather Briefcase,"$1,450",Bags/Leather_Goods
+296,Serapian,Milano Leather Briefcase,"$1,825",Bags/Leather_Goods
+297,Gucci,Ophidia Large Logo Suede Tote Bag,"$2,290",Bags/Leather_Goods
+298,CALVIN KLEIN 205W39NYC,Flap Backpack,"$1,050",Bags/Leather_Goods
+299,Gucci,GG Supreme Tote Bag,"$1,290",Bags/Leather_Goods
+300,CALVIN KLEIN 205W39NYC,Drawstring Backpack,$600,Bags/Leather_Goods
+301,Prada,Twill Belt Bag,$630,Bags/Leather_Goods
+302,Thom Browne,Leather Card Case,$450,Bags/Leather_Goods
+303,Fendi,Bag Bugs Leather Key Chain,$420,Bags/Leather_Goods
+304,Balenciaga,Logo Leather Card Case,$395,Bags/Leather_Goods
+305,Barneys New York,Alligator Billfold,$600,Bags/Leather_Goods
+306,Salvatore Ferragamo,Revival Billfold,$395,Bags/Leather_Goods
+307,Salvatore Ferragamo,Revival Flat Card Case,$260,Bags/Leather_Goods
+308,Saint Laurent,Leather Shopping Tote Bag,$995,Bags/Leather_Goods
+309,Fendi,Bag Bugs Leather Card Case,$390,Bags/Leather_Goods
+310,Prada,Classic Twill Backpack,"$1,270",Bags/Leather_Goods
+311,Salvatore Ferragamo,Revival Flat Card Case,$260,Bags/Leather_Goods
+312,Maison Margiela,Leather Card Case,$280,Bags/Leather_Goods
+313,Givenchy,Logo Leather Key Ring,$425,Bags/Leather_Goods
+314,Serapian,Evolution Leather Card Case,$165,Bags/Leather_Goods
+315,Serapian,Evolution Leather Billfold,$285,Bags/Leather_Goods
+316,Serapian,Milano Leather Billfold,$315,Bags/Leather_Goods
+317,Serapian,Milano Leather Billfold,$315,Bags/Leather_Goods
+318,Serapian,Evolution Leather Money-Clip Billfold,$265,Bags/Leather_Goods
+319,Herschel Supply Co.,Cruz Crossbody Bag,$45,Bags/Leather_Goods
+320,Serapian,Evolution Leather Folding Card Case,$215,Bags/Leather_Goods
+321,Salvatore Ferragamo,Chantilly Leather Card Case,$185,Bags/Leather_Goods
+322,Givenchy,Classic Address-Tag Backpack,"$1,500",Bags/Leather_Goods
+323,Givenchy,Logo-Address Leather Folding Card Case,$385,Bags/Leather_Goods
+324,Alexander McQueen,Leather Card Case,$195,Bags/Leather_Goods
+325,Smythson,Panama Leather Card Case,$165,Bags/Leather_Goods
+326,Prada,Leather-Trimmed Backpack,"$1,490",Bags/Leather_Goods
+327,Smythson,Panama Leather Card Case,$165,Bags/Leather_Goods
+328,Smythson,Panama Leather Card Case,$165,Bags/Leather_Goods
+329,Paul Smith,Cycle-Dot Leather Folding Card Case,$195,Bags/Leather_Goods
+330,Givenchy,Classic Backpack,"$1,295",Bags/Leather_Goods
+331,AMIRI,Fringed Suede Key Chain,$490,Bags/Leather_Goods
+332,Saint Laurent,City Shearling Backpack,"$2,490",Bags/Leather_Goods
+333,AMIRI,Fringed Suede Key Chain,$490,Bags/Leather_Goods
+334,Givenchy,Leather Zip Card Case,$455,Bags/Leather_Goods
+335,Givenchy,Leather Billfold,$555,Bags/Leather_Goods
+336,Givenchy,Urban Backpack,"$1,295",Bags/Leather_Goods
+337,Givenchy,"""Mad Love Tour"" Folding Card Case",$295,Bags/Leather_Goods
+338,Givenchy,"""Mad Love Tour"" Card Case",$225,Bags/Leather_Goods
+339,Givenchy,Stenciled Leather Card Case,$320,Bags/Leather_Goods
+340,Givenchy,Logo-Address-Tag Leather Billfold,$555,Bags/Leather_Goods
+341,Givenchy,Leather Compact Wallet,$695,Bags/Leather_Goods
+342,Serapian,Evolution Leather iPad® Case,$450,Bags/Leather_Goods
+343,Salvatore Ferragamo,Revival Leather Folding Card Case,$330,Bags/Leather_Goods
+344,Salvatore Ferragamo,Revival Leather Folding Card Case,$330,Bags/Leather_Goods
+345,Saint Laurent,Leather-Trimmed Belt Bag,$595,Bags/Leather_Goods
+346,Saint Laurent,Leather Top-Zip Card Case,$295,Bags/Leather_Goods
+347,Balenciaga,Everyday Logo Leather Card Case,$350,Bags/Leather_Goods
+348,Balenciaga,Arena Leather Explorer Billfold,$350,Bags/Leather_Goods
+349,Balenciaga,Explorer Belt Bag,$770,Bags/Leather_Goods
+350,Balenciaga,Explorer Belt Bag,$830 - $850,Bags/Leather_Goods
+351,Balenciaga,Arena Leather Backpack,"$1,590",Bags/Leather_Goods
+352,Balenciaga,Explorer Belt Bag,$830,Bags/Leather_Goods
+353,Bottega Veneta,Intrecciato Billfold,$490,Bags/Leather_Goods
+354,Serapian,Evolution Leather iPad® Case,$615,Bags/Leather_Goods
+355,Christian Louboutin,Kios Leather Card Case,$260,Bags/Leather_Goods
+356,Givenchy,Light 3 Backpack,"$1,100",Bags/Leather_Goods
+357,Balenciaga,Embroidered Belt Bag,$850,Bags/Leather_Goods
+358,CALVIN KLEIN 205W39NYC,Flap Backpack,"$1,100",Bags/Leather_Goods
+359,CALVIN KLEIN 205W39NYC,Logo Belt Bag,$750,Bags/Leather_Goods
+360,CALVIN KLEIN 205W39NYC,Logo Belt Bag,$990,Bags/Leather_Goods
+361,Givenchy,Pandora Messenger Bag,"$1,600",Bags/Leather_Goods
+362,Gucci,SF Giants™ GG-Pattern Leather Card Case,$320,Bags/Leather_Goods
+363,Gucci,GG Supreme Messenger Bag,"$1,100",Bags/Leather_Goods
+364,Gucci,NY Yankees™ GG Supreme Pouch,"$1,100",Bags/Leather_Goods
+365,Gucci,SF Giants™ GG-Pattern Leather Billfold,$570,Bags/Leather_Goods
+366,Gucci,LA Dodgers™ GG Supreme Billfold,$420,Bags/Leather_Goods
+367,Prada,Small Nylon Keychain Pouch,$280,Bags/Leather_Goods
+368,Prada,Small Leather Keychain Pouch,$340,Bags/Leather_Goods
+369,Prada,Small Leather Keychain Pouch,$340,Bags/Leather_Goods
+370,Off-White c/o Virgil Abloh,Canvas Backpack,$775,Bags/Leather_Goods
+371,Paul Smith,Film Strip Mini Leather Card Case,$175,Bags/Leather_Goods
+372,Off-White c/o Virgil Abloh,Belt Bag,$725,Bags/Leather_Goods
+373,Off-White c/o Virgil Abloh,Convertible Belt Bag,$650,Bags/Leather_Goods
+374,Saint Laurent,Monogram Stamped Leather Key Chain,$285,Bags/Leather_Goods
+375,Saint Laurent,Monogram Leather Key Chain,$285,Bags/Leather_Goods
+376,Prada,Leather Card Case,$260,Bags/Leather_Goods
+377,Prada,Leather-Trimmed Zip Pouch,$360,Bags/Leather_Goods
+378,Prada,Leather-Trimmed Small Pouch,$280,Bags/Leather_Goods
+379,Prada,Leather-Trimmed Large Pouch,$420,Bags/Leather_Goods
+380,Dries Van Noten,Wave-Print Twill Tote Bag,$600,Bags/Leather_Goods
+381,Thom Browne,Note-Compartment Card Case,$310,Bags/Leather_Goods
+382,Salvatore Ferragamo,Lanyard Leather Card Case,$295,Bags/Leather_Goods
+383,Gucci,Coated Canvas Lanyard Card Case,$380,Bags/Leather_Goods
+384,Bottega Veneta,Intrecciato Leather Key Chain,$220,Bags/Leather_Goods
+385,Valentino Garavani,Leather-Trimmed Belt Bag,$745,Bags/Leather_Goods
+386,Saint Laurent,"""Smoking Forever"" Leather Backpack","$1,590",Bags/Leather_Goods
+387,Gucci,GG Supreme Canvas Belt Bag,"$1,100",Bags/Leather_Goods
+388,Gucci,GG Supreme Tote Bag,"$1,390",Bags/Leather_Goods
+389,Saint Laurent,Shearling & Leather Belt Bag,"$1,250",Bags/Leather_Goods
+390,Saint Laurent,Monogram Leather Billfold,$590,Bags/Leather_Goods
+391,LOEWE,Leather Key Ring Charm,$270,Bags/Leather_Goods
+392,Gucci,Logo Leather Drawstring Backpack,"$1,980",Bags/Leather_Goods
+393,Boldrini Selleria,Leather Portfolio,$255,Bags/Leather_Goods
+394,Givenchy,Pandora Leather Messenger Bag,"$2,225",Bags/Leather_Goods
+395,T. Anthony,Leather-Trimmed Canvas Tote Bag,$450,Bags/Leather_Goods
+396,Herschel Supply Co.,Tour Medium Belt Bag,$45,Bags/Leather_Goods
+397,Gucci,Logo Key Chain,$390,Bags/Leather_Goods
+398,Felisi,Leather-Trimmed Tote Bag,$650,Bags/Leather_Goods
+399,Felisi,Expandable Canvas Briefcase,$925,Bags/Leather_Goods
+400,Saint Laurent,"""Brutally In Love"" Leather Shopping Tote Bag",$950,Bags/Leather_Goods
+401,Troubadour,Adventure Slipstream Canvas Backpack,$495,Bags/Leather_Goods
+402,Y-3,Faille Tote Bag,$130,Bags/Leather_Goods
+403,Y-3,Bungee Coated Gym Bag,$400,Bags/Leather_Goods
+404,Balenciaga,Explorer Belt Bag,$895,Bags/Leather_Goods
+405,Balenciaga,Explorer Backpack,"$1,390",Bags/Leather_Goods
+406,Balenciaga,Arena Leather Pouch,$650,Bags/Leather_Goods
+407,Balenciaga,Explorer Backpack,"$1,390",Bags/Leather_Goods
+408,Balenciaga,"""Plastic Bag"" Small Leather Shopper Tote Bag","$1,390",Bags/Leather_Goods
+409,Balenciaga,Leather Billfold,$395,Bags/Leather_Goods
+410,Givenchy,Leather-Trimmed Backpack,"$1,350",Bags/Leather_Goods
+411,LANDLORD,Faux-Fur Belt Bag,$200,Bags/Leather_Goods
+412,Givenchy,Light 3 Belt Bag,$625,Bags/Leather_Goods
+413,Givenchy,Light 3 Belt Bag,$750,Bags/Leather_Goods
+414,Givenchy,MC3 Crossbody Bag,"$1,195",Bags/Leather_Goods
+415,Givenchy,NC3 Leather Crossbody Bag,"$1,195",Bags/Leather_Goods
+416,Prada,Zip-Around Leather Wallet,$750,Bags/Leather_Goods
+417,Gucci,Studded Leather Billfold,$780,Bags/Leather_Goods
+418,Bottega Veneta,Intrecciato Leather Key Chain,$220,Bags/Leather_Goods
+419,Prada,Belt Bag,$770,Bags/Leather_Goods
+420,Campomaggi,Convertible Leather Briefcase,$725,Bags/Leather_Goods
+421,Maison Margiela,Canvas Belt Bag,$495,Bags/Leather_Goods
+422,Fendi,Ostrich & Shearling Taco Coin Pouch,$890,Bags/Leather_Goods
+423,Salvatore Ferragamo,Revival Leather Long Wallet,$450,Bags/Leather_Goods
+424,Campomaggi,Convertible Leather-Trimmed Canvas Backpack,$650,Bags/Leather_Goods
+425,AMIRI,Silk Bandana Key Chain,$170,Bags/Leather_Goods
+426,Salvatore Ferragamo,Revival Leather Card Case & Money Clip,$295,Bags/Leather_Goods
+427,Salvatore Ferragamo,Revival Leather Card Case With Lanyard,$230,Bags/Leather_Goods
+428,Prada,Belt Bag,$770,Bags/Leather_Goods
+429,Saint Laurent,Pineapple Skull Zip-Around Leather Card Case,$375,Bags/Leather_Goods
+430,Prada,Small Leather Keychain Pouch,$380,Bags/Leather_Goods
+431,Prada,Stitched Tech-Twill Shoulder Bag,"$1,120",Bags/Leather_Goods
+432,Prada,"Leather ID Card Case, Pouch & Key Chain",$670,Bags/Leather_Goods
+433,Serapian,Milano Leather Portfolio,$930,Bags/Leather_Goods
+434,Off-White c/o Virgil Abloh,Leather Card Case,$275,Bags/Leather_Goods
+435,Saint Laurent,City Canvas Backpack,$950,Bags/Leather_Goods
+436,Off-White c/o Virgil Abloh,Logo-Jacquard Key Chain,$190,Bags/Leather_Goods
+437,Prada,Leather Billfold,$460,Bags/Leather_Goods
+438,A-COLD-WALL*,Cutout Leather Card Case,$205,Bags/Leather_Goods
+439,Serapian,Evolution Leather Zip Card Case,$300,Bags/Leather_Goods
+440,A-COLD-WALL*,Cutout Leather Card Case,$205,Bags/Leather_Goods
+441,Dries Van Noten,Wave-Print Twill Tote Bag,$640,Bags/Leather_Goods
+442,Christian Louboutin,Clipsos Leather Money Clip Billfold,$450,Bags/Leather_Goods
+443,Maison Margiela,Leather Card Case,$280,Bags/Leather_Goods
+444,Christian Louboutin,Kios Leather Card Case,$290,Bags/Leather_Goods
+445,Off-White c/o Virgil Abloh,Crossbody Bag,$650,Bags/Leather_Goods
+446,Y-3,Convertible Mesh Bag,$120,Bags/Leather_Goods
+447,Prada,Leather Card Case,$260,Bags/Leather_Goods
+448,Fendi,FF Logo Leather Card Case,$350,Bags/Leather_Goods
+449,Bottega Veneta,Intrecciato Leather Zip Card Case,$370,Bags/Leather_Goods
+450,Fendi,FF Logo Leather Billfold,$490,Bags/Leather_Goods
+451,Fendi,Logo-Stamp-Appliquéd Leather Billfold,$490,Bags/Leather_Goods
+452,Comme des Garçons,Denim Large Pouch,$110,Bags/Leather_Goods
+453,Fendi,Logo-Stamp-Appliquéd Leather Zip Card Case,$450,Bags/Leather_Goods
+454,Maison Margiela,Leather Card Case,$280,Bags/Leather_Goods
+455,Paul Smith,Mini Film Strip Leather Billfold,$250,Bags/Leather_Goods
+456,Givenchy,Logo 4G Key Chain,$275,Bags/Leather_Goods
+457,Y-3,Bungee Coated Backpack,$300,Bags/Leather_Goods
+458,Saint Laurent,Pineapple-Embossed Leather Billfold,$425,Bags/Leather_Goods
+459,Saint Laurent,Pineapple-Embossed Leather Top-Zip Card Case,$325,Bags/Leather_Goods
+460,Saint Laurent,Robot-Embossed Leather Billfold,$425,Bags/Leather_Goods
+461,Gucci,LA Dodgers™ Leather Billfold,$520,Bags/Leather_Goods
+462,Paul Smith,Saffiano Leather Card Case,$175,Bags/Leather_Goods
+463,Prada,Saffiano Leather Shoulder Bag,"$1,790",Bags/Leather_Goods
+464,Saint Laurent,Leather Top-Zip Card Case,$295,Bags/Leather_Goods
+465,Salvatore Ferragamo,Gancio Arrow Leather Coin Pouch,$330,Bags/Leather_Goods
+466,Gucci,GG Supreme Canvas Belt Bag,$750,Bags/Leather_Goods
+467,Balenciaga,Arena Leather Explorer Belt Bag,"$1,380",Bags/Leather_Goods
+468,Prada,Logo Leather Card Case,$260,Bags/Leather_Goods
+469,Balenciaga,Explorer Pouch,$550,Bags/Leather_Goods
+470,Gucci,Appliquéd GG Supreme Canvas Shopper Tote Bag,"$2,100",Bags/Leather_Goods
+471,Maison Margiela,Leather Billfold,$495,Bags/Leather_Goods
+472,Barneys New York,Alligator Billfold,$600,Bags/Leather_Goods
+473,Thom Browne,Long Leather Wallet,$540,Bags/Leather_Goods
+474,Balenciaga,Explorer Belt Bag,$850,Bags/Leather_Goods
+475,WANT LES ESSENTIELS,O'Hare Shopper Tote Bag,$325,Bags/Leather_Goods
+476,Gucci,GG Supreme Coated Canvas Pouch,$890,Bags/Leather_Goods
+477,WANT LES ESSENTIELS,Belt Bag,$165,Bags/Leather_Goods
+478,Prada,Robot Leather Key Chain,$340,Bags/Leather_Goods
+479,Prada,Robot Leather Key Chain,$340,Bags/Leather_Goods
+480,mastermind JAPAN,Skull iPhone® 7 Plus/8 Plus Case,$65,Bags/Leather_Goods
+481,WANT LES ESSENTIELS,Fillmore Belt Bag,$165,Bags/Leather_Goods
+482,Comme des Garçons,Channel-Stitched Leather Zip-Around Wallet,$100,Bags/Leather_Goods
+483,Maison Margiela,Glam Slam Canvas Crossbody Bag,"$1,385",Bags/Leather_Goods
+484,WANT LES ESSENTIELS,Kastrup Leather-Trimmed Backpack,$525,Bags/Leather_Goods
+485,Valentino Garavani,Camouflage Leather Card Case,$375,Bags/Leather_Goods
+486,Valentino Garavani,Camouflage Tech-Fabric Belt Bag,$695,Bags/Leather_Goods
+487,Dries Van Noten,Canvas Card Case,$125,Bags/Leather_Goods
+488,Valentino Garavani,Camouflage Tech-Fabric Belt Bag,$795,Bags/Leather_Goods
+489,Prada,Logo Leather Billfold,$440,Bags/Leather_Goods
+490,LOEWE,Desert Lion-Graphic Leather Tote Bag,"$1,550",Bags/Leather_Goods
+491,Cornelian Taurus,Cut Off Large Leather Tote Bag,$995,Bags/Leather_Goods
+492,LOEWE,Leather & Knit Tote Bag,"$1,250",Bags/Leather_Goods
+493,Herschel Supply Co.,Winlaw Extra Large Backpack,$90,Bags/Leather_Goods
+494,Prada,Tech-Twill Shoulder Bag,$950,Bags/Leather_Goods
+495,Prada,Lanyard Leather ID Pouch,$525,Bags/Leather_Goods
+496,Givenchy,Urban Leather-Trimmed Backpack,"$1,350",Bags/Leather_Goods
+497,Herschel Supply Co.,Tour Medium Hip Bag,$45,Bags/Leather_Goods
+498,Prada,Leather Briefcase,"$2,200",Bags/Leather_Goods
+499,Saint Laurent,Shearling & Leather Belt Bag,"$1,250",Bags/Leather_Goods
+500,Christian Louboutin,Credilou Leather Zip-Around Card Case,$380,Bags/Leather_Goods
+501,Christian Louboutin,Credilou Leather Zip-Around Card Case,$420,Bags/Leather_Goods
+502,Balenciaga,Explorer Backpack,$895,Bags/Leather_Goods
+503,Balenciaga,Wheel Backpack,"$1,045",Bags/Leather_Goods
+504,Balenciaga,Explorer Backpack,"$1,050",Bags/Leather_Goods
+505,Balenciaga,Supermarket Clip Leather Pouch,$895,Bags/Leather_Goods
+506,Balenciaga,Arena Leather Bazar Belt Bag,"$1,380",Bags/Leather_Goods
+507,Smythson,Panama Leather Card Holder,$140,Bags/Leather_Goods
+508,Smythson,Panama Leather Card Holder,$165,Bags/Leather_Goods
+509,Smythson,Wigmore Leather Card Holder,$195,Bags/Leather_Goods
+510,Burberry,Edin Leather Pouch,$730,Bags/Leather_Goods
+511,Burberry,Sonny Belt Bag,$590,Bags/Leather_Goods
+512,Alexander McQueen,Crocodile-Embossed Leather ID Holder,$380,Bags/Leather_Goods
+513,Smythson,Wigmore Zip-Around Leather Card Case,$315,Bags/Leather_Goods
+514,Serapian,Evolution Leather iPad® Case,$450,Bags/Leather_Goods
+515,LOEWE,Leather-Trimmed Cotton Tote Bag,"$1,290",Bags/Leather_Goods
+516,Christian Louboutin,Signature-Sneaker Key Chain,$280,Bags/Leather_Goods
+517,Christian Louboutin,Signature Whistle Key Chain,$280,Bags/Leather_Goods
+518,Thom Browne,Folding Leather Card Case,$400,Bags/Leather_Goods
+519,Thom Browne,Leather Billfold,$450,Bags/Leather_Goods
+520,Thom Browne,Diver Key Chain,$320,Bags/Leather_Goods
+521,Thom Browne,Swim Briefs Key Chain,$320,Bags/Leather_Goods
+522,Thom Browne,Swim Briefs Key Chain,$320,Bags/Leather_Goods
+523,Thom Browne,Diver Key Chain,$320,Bags/Leather_Goods
+524,Thom Browne,Swim Briefs Key Chain,$320,Bags/Leather_Goods
+525,Thom Browne,Sock Key Chain,$320,Bags/Leather_Goods
+526,Thom Browne,Sock Key Chain,$320,Bags/Leather_Goods
+527,Thom Browne,Note-Compartment Leather Card Case,$320,Bags/Leather_Goods
+528,Saint Laurent,Shopping Tote Bag,$650,Bags/Leather_Goods
+529,Off-White c/o Virgil Abloh,Denim Crossbody Bag,$715,Bags/Leather_Goods
+530,Off-White c/o Virgil Abloh,Denim Crossbody Bag,$475,Bags/Leather_Goods
+531,Saint Laurent,Leather-Trimmed Woven Belt Bag,$645,Bags/Leather_Goods
+532,Thom Browne,Triangle Leather Coin Case,$720,Bags/Leather_Goods
+533,Givenchy,Leather Zip Card Case,$450,Bags/Leather_Goods
+534,Givenchy,Light 3 Belt Bag,$750,Bags/Leather_Goods
+535,Off-White c/o Virgil Abloh,Cotton Twill Camera Bag,$475,Bags/Leather_Goods
+536,Givenchy,Light 3 Belt Bag,$750,Bags/Leather_Goods
+537,Saint Laurent,City Canvas Shopping Tote Bag,$995,Bags/Leather_Goods
+538,Off-White c/o Virgil Abloh,Denim Belt Bag,$900,Bags/Leather_Goods
+539,Balenciaga,Colorblocked Backpack,"$1,590",Bags/Leather_Goods
+540,Prada,Top-Zip Tote,"$1,660",Bags/Leather_Goods
+541,Smythson,Wigmore Leather Card Holder,$285,Bags/Leather_Goods
+542,Fontana Milano 1915,Messenger Bag,"$4,275",Bags/Leather_Goods
+543,WANT LES ESSENTIELS,Kastrup Backpack,$995,Bags/Leather_Goods
+544,Comme des Garçons,Large Zip Pouch,$210,Bags/Leather_Goods
+545,Porter,Tanker Backpack,$560,Bags/Leather_Goods
+546,Felisi,Briefcase Tote,"$1,100",Bags/Leather_Goods
+547,Comme des Garçons,Large Logo-Embossed Zip Pouch,$140,Bags/Leather_Goods
+548,Ari D. Norman,Double Money Clip,$395,Bags/Leather_Goods
+549,Comme des Garçons,Small Zip Pouch,$105,Bags/Leather_Goods
+550,Comme des Garçons,Marvellous Top-Zip Pouch,$130,Bags/Leather_Goods
+551,Comme des Garçons,Patchwork Large Zip Pouch,$350,Bags/Leather_Goods
+552,Comme des Garçons,Raised Spike Large Zip Pouch,$240,Bags/Leather_Goods
+553,Puiforcat,Sterling Silver Cube Key Ring,$285,Bags/Leather_Goods
+554,Porter,Colorama Tote,$240,Bags/Leather_Goods
+555,Serapian,Evolution Duffel,"$1,650",Bags/Leather_Goods
+556,Comme des Garçons,Marvellous Large Zip Pouch,$185,Bags/Leather_Goods
+557,Delvaux,Zip-Around Briefcase,"$3,450",Bags/Leather_Goods
+558,Comme des Garçons,Zip Pouch,$175,Bags/Leather_Goods
+559,Delvaux,Double-Handle Briefcase,"$3,300",Bags/Leather_Goods
+560,T. Anthony,Canvas & Leather Weekender Bag,$460,Bags/Leather_Goods
+561,Delvaux,Flap-Front Briefcase,"$4,350",Bags/Leather_Goods
+562,Bric's,Varese Director Medium Backpack,$550,Bags/Leather_Goods
+563,Delvaux,Cartable Presse I Briefcase,"$4,950",Bags/Leather_Goods
+564,T. Anthony,48 Hour Duffel/Garment Bag,"$1,300",Bags/Leather_Goods
+565,Comme des Garçons,Channel-Stitched Zip Pouch,$100,Bags/Leather_Goods
+566,Givenchy,Eros Billfold,$455,Bags/Leather_Goods
+567,Prada,Coin-Pocket Billfold,$395,Bags/Leather_Goods
+568,Givenchy,Eros Money Clip Billfold,$345,Bags/Leather_Goods
+569,Comme des Garçons,Half-Zip Wallet,$165,Bags/Leather_Goods
+570,Comme des Garçons,Luxury Folding Card Case,$160,Bags/Leather_Goods
+571,Comme des Garçons,Luxury Zip-Around Wallet,$365,Bags/Leather_Goods
+572,Comme des Garçons,Zip Pouch,$175,Bags/Leather_Goods
+573,Comme des Garçons,Luxury Large Zip Pouch,$245,Bags/Leather_Goods
+574,Delvaux,Bowler Hat Envelope Card Case,$450,Bags/Leather_Goods
+575,Barneys New York,Flat Card Case,$115,Bags/Leather_Goods
+576,WANT LES ESSENTIELS,Haneda Slim Computer Bag,$450,Bags/Leather_Goods
+577,Comme des Garçons,Small Zip Pouch,$105,Bags/Leather_Goods
+578,Smythson,Mara Card Case,$215,Bags/Leather_Goods
+579,Barneys New York,Card Case,$98,Bags/Leather_Goods
+580,WANT LES ESSENTIELS,Trudeau Briefcase,"$1,395",Bags/Leather_Goods
+581,Comme des Garçons,Half-Zip Wallet,$140,Bags/Leather_Goods
+582,Comme des Garçons,Channel-Stitched Zip Pouch,$100,Bags/Leather_Goods
+583,Barneys New York,Vertical Folding Card Case,$125,Bags/Leather_Goods
+584,Barneys New York,Alligator Flat Card Case,$350,Bags/Leather_Goods
+585,Comme des Garçons,Zip-Around Wallet,$285,Bags/Leather_Goods
+586,Barneys New York,Mini-Billfold,$195,Bags/Leather_Goods
+587,Barneys New York,Sterling Silver Oval Key Ring,$75,Bags/Leather_Goods
+588,Delvaux,Contemporain Tote Bag,"$4,200",Bags/Leather_Goods
+589,Boldrini Selleria,Top-Handle Briefcase,$675,Bags/Leather_Goods
+590,Barneys New York,Sterling Silver Double-Sided Money Clip,$225,Bags/Leather_Goods
+591,Barneys New York,Sterling Silver Money Clip,$225,Bags/Leather_Goods
+592,Troubadour,F + L Backpack,$495,Bags/Leather_Goods
+593,Troubadour,Messenger Bag,$375,Bags/Leather_Goods
+594,Gucci,Appliquéd GG Supreme Shopper Tote Bag,"$1,980",Bags/Leather_Goods
+595,Valentino Garavani,Camouflage Duffel Bag,"$2,075",Bags/Leather_Goods
+596,Barneys New York,Leather Billfold,$295,Bags/Leather_Goods
+597,Givenchy,Eros Card Case,$245,Bags/Leather_Goods
+598,Balenciaga,Logo Backpack,$895,Bags/Leather_Goods
+599,Prada,Slim Briefcase,"$1,560",Bags/Leather_Goods
+600,Gucci,Card-Case Key Chain,$350,Bags/Leather_Goods
+601,Salvatore Ferragamo,Revival Card Case,$295,Bags/Leather_Goods
+602,Hadoro,Alligator iPhone® X Case,$430,Bags/Leather_Goods
+603,Gucci,Interlocking G Key Chain,$240,Bags/Leather_Goods
+604,Cledran,Shopper Tote Bag,$435,Bags/Leather_Goods
+605,Barneys New York,Leather Billfold,$295,Bags/Leather_Goods
+606,Barneys New York,Yellow Gold Paperclip Money Clip,$995,Bags/Leather_Goods
+607,Tomasini,Canvas Duffel Bag,$995,Bags/Leather_Goods
+608,Balenciaga,Classic Backpack,$995,Bags/Leather_Goods
+609,Givenchy,Money Clip Billfold,$455,Bags/Leather_Goods
+610,Givenchy,Eros Billfold,$455,Bags/Leather_Goods
+611,Troubadour,F + L Backpack,$495,Bags/Leather_Goods
+612,Givenchy,Logo Slim Briefcase,"$1,350",Bags/Leather_Goods
+613,Barneys New York,Alligator Card Case,$350,Bags/Leather_Goods
+614,Barneys New York,Alligator Billfold,$650,Bags/Leather_Goods
+615,Barneys New York,Alligator Card Case,$350,Bags/Leather_Goods
+616,Prada,Colorblocked Leather Card Case,$250,Bags/Leather_Goods
+617,Fontana Milano 1915,Leather-Trimmed Duffel Bag,"$2,625",Bags/Leather_Goods
+618,Fontana Milano 1915,Tum Tum Suede-Trimmed Tote Bag,"$1,975",Bags/Leather_Goods
+619,Comme des Garçons,Leather Zip-Around Wallet,$350,Bags/Leather_Goods
+620,Comme des Garçons,Leather Zip-Around Wallet,$260,Bags/Leather_Goods
+621,Fontana Milano 1915,Small Suede-Trimmed Messenger Bag,"$1,750",Bags/Leather_Goods
+622,Fontana Milano 1915,Small Leather Messenger Bag,"$2,025",Bags/Leather_Goods
+623,Fontana Milano 1915,Small Suede Messenger Bag,"$2,325",Bags/Leather_Goods
+624,Prada,Robot Tote Bag,"$1,280",Bags/Leather_Goods
+625,Thom Browne,Leather Card Case,$290,Bags/Leather_Goods
+626,Tomasini,Classic Canvas & Leather Backpack,$850,Bags/Leather_Goods
+627,Givenchy,Leather Billfold,$550,Bags/Leather_Goods
+628,Saint Laurent,Logo Key Chain,$195,Bags/Leather_Goods
+629,Saint Laurent,"""Waiting For Sunset"" Key Chain",$225,Bags/Leather_Goods
+630,Saint Laurent,North-South Leather Sac De Jour,"$2,490",Bags/Leather_Goods
+631,Prada,Colorblocked Leather Card Case,$260,Bags/Leather_Goods
+632,Bottega Veneta,Intrecciato Key Chain,$220,Bags/Leather_Goods
+633,Givenchy,Eros Large Leather Box Pouch,"$1,325",Bags/Leather_Goods
+634,Porter,Tanker-Standard 3-Way Briefcase,$745,Bags/Leather_Goods
+635,Porter,Helmet Tote Bag,$470,Bags/Leather_Goods
+636,Porter,Grain Messenger Bag,$420,Bags/Leather_Goods
+637,Saint Laurent,Monogram Leather Card Case,$285,Bags/Leather_Goods
+638,Saint Laurent,"""Smoking Forever"" Leather Money-Clip Billfold",$425,Bags/Leather_Goods
+639,Saint Laurent,Leather Glitter Billfold,$395,Bags/Leather_Goods
+640,Fendi,Backpack,"$2,200",Bags/Leather_Goods
+641,Gucci,Logo Leather Billfold,$550,Bags/Leather_Goods
+642,Fendi,Forever Fendi Sport Backpack,"$2,200",Bags/Leather_Goods
+643,Serapian,Milano Leather Portfolio,$685,Bags/Leather_Goods
+644,Serapian,Milano Leather Briefcase,"$1,450",Bags/Leather_Goods
+645,Gucci,Leather Messenger Bag,"$1,590",Bags/Leather_Goods
+646,Bottega Veneta,Intrecciato Leather Folding Card Case,$410,Bags/Leather_Goods
+647,Gucci,Logo Leather Belt Bag,"$1,290",Bags/Leather_Goods
+648,CALVIN KLEIN 205W39NYC,Drawstring Backpack,$600,Bags/Leather_Goods
+649,Felisi,Slim Shopper Tote Bag,$925,Bags/Leather_Goods
+650,Fontana Milano 1915,Tum Tum Tote Bag,"$2,750",Bags/Leather_Goods
+651,Barneys New York,Alligator Money Clip,$175,Bags/Leather_Goods
+652,Prada,Tech-Twill Shoulder Bag,$940,Bags/Leather_Goods
+653,Heron Preston,HP Ripstop Belt Bag,$385,Bags/Leather_Goods
+654,Thom Browne,Medium Leather Pouch,$785,Bags/Leather_Goods
+655,Thom Browne,Leather Card Case,$380,Bags/Leather_Goods
+656,Bottega Veneta,Intrecciato Leather Folding Card Case,$380,Bags/Leather_Goods
+657,Barneys New York,Alligator Folding Card Case,$500,Bags/Leather_Goods
+658,Barneys New York,Alligator Folding Card Case,$500,Bags/Leather_Goods
+659,Barneys New York,Alligator Folding Card Case,$500,Bags/Leather_Goods
+660,Barneys New York,Small Alligator Zip-Around Card Case,$495,Bags/Leather_Goods
+661,Barneys New York,Large Alligator Card Case,$415,Bags/Leather_Goods
+662,Barneys New York,Small Alligator Zip-Around Card Case,$495,Bags/Leather_Goods
+663,Barneys New York,Large Alligator Card Case,$415,Bags/Leather_Goods
+664,Boldrini Selleria,Leather Portfolio,$225,Bags/Leather_Goods
+665,Balenciaga,Arena Leather Carry Shopper L Tote Bag,"$2,290",Bags/Leather_Goods
+666,Fendi,Super Bugs Belt Bag,$990,Bags/Leather_Goods
+667,Fendi,Bag Bugs Leather Billfold,$530,Bags/Leather_Goods
+668,Serapian,Evolution Leather iPad® Case,$450,Bags/Leather_Goods
+669,Salvatore Ferragamo,Flat Leather Card Case,$185,Bags/Leather_Goods
+670,Salvatore Ferragamo,Revival Billfold,$395,Bags/Leather_Goods
+671,Serapian,Evolution Leather iPad® Case,$450,Bags/Leather_Goods
+672,Maison Margiela,Leather Billfold,$495,Bags/Leather_Goods
+673,Off-White c/o Virgil Abloh,Leather Key Chain,$230,Bags/Leather_Goods
+674,Boldrini Selleria,Leather Tote Bag,$635,Bags/Leather_Goods
+675,Serapian,"""Cashmere"" Small Leather Pouch",$450,Bags/Leather_Goods
+676,Gucci,Logo Leather Billfold,$550,Bags/Leather_Goods
+677,Serapian,"""Cashmere"" Small Leather Pouch",$615,Bags/Leather_Goods
+678,Paul Smith,Cycle Dot Leather Billfold,$225,Bags/Leather_Goods
+679,Le Gramme,Le 27 Key Ring,$290,Bags/Leather_Goods
+680,Cornelian Taurus,Cut Off Large Leather Tote Bag,$995,Bags/Leather_Goods
+681,Cornelian Taurus,Leather-Trimmed Tote Bag,$795,Bags/Leather_Goods
+682,Serapian,Evolution Leather Money-Clip Billfold,$265,Bags/Leather_Goods
+683,Herschel Supply Co.,Cruz Camouflage Crossbody Bag,$45,Bags/Leather_Goods
+684,Maison Margiela,Glam Slam Canvas Crossbody Bag,"$1,385",Bags/Leather_Goods
+685,Smythson,Panama Leather Card Case,$165,Bags/Leather_Goods
+686,Smythson,Panama Leather Card Case,$185,Bags/Leather_Goods
+687,Givenchy,Leather Billfold,$490,Bags/Leather_Goods
+688,Alexander McQueen,Leather Folding Card Case,$265,Bags/Leather_Goods
+689,Alexander McQueen,Leather Zip Card Case,$265,Bags/Leather_Goods
+690,Givenchy,Eros Leather Zip Card Case,$420,Bags/Leather_Goods
+691,Prada,Leather Pouch,"$1,230",Bags/Leather_Goods
+692,Saint Laurent,Fox Fur Key Chain,"$1,995",Bags/Leather_Goods
+693,Saint Laurent,Leather Shopping Tote Bag,$995,Bags/Leather_Goods
+694,Givenchy,Leather Duffel Bag,"$2,890",Bags/Leather_Goods
+695,Saint Laurent,City Backpack,"$1,190",Bags/Leather_Goods
+696,Paul Smith,Striped-Edge Leather Folding Card Case,$195,Bags/Leather_Goods
+697,Givenchy,UT3 Belt Bag,$795,Bags/Leather_Goods
+698,Givenchy,Leather Folding Card Case,$385,Bags/Leather_Goods
+699,Givenchy,Light 3 Belt Bag,$625,Bags/Leather_Goods
+700,Givenchy,Leather Card Case,$320,Bags/Leather_Goods
+701,Givenchy,"""Mad Love Tour"" Money Clip Billfold",$320,Bags/Leather_Goods
+702,Givenchy,Logo Strap Key Chain,$245,Bags/Leather_Goods
+703,Serapian,Cachemire Zip Portfolio,$600,Bags/Leather_Goods
+704,Serapian,Boston Evolution Leather Duffel Bag,"$1,350",Bags/Leather_Goods
+705,LOEWE,Leather-Trimmed Patchwork Plaid Tote Bag,"$1,290",Bags/Leather_Goods
+706,LOEWE,Military Small Suede & Canvas Messenger Bag,"$1,890",Bags/Leather_Goods
+707,LOEWE,Leather-Trimmed Suede & Canvas Tote Bag,"$1,750",Bags/Leather_Goods
+708,Saint Laurent,Leather Billfold,$395,Bags/Leather_Goods
+709,Saint Laurent,Zip-Around Leather Card Case,$345,Bags/Leather_Goods
+710,Givenchy,Leather Pouch,$835,Bags/Leather_Goods
+711,Vianel,Leather Belt Bag,$390,Bags/Leather_Goods
+712,Balenciaga,Explorer Arena Leather Belt Bag,"$1,380",Bags/Leather_Goods
+713,Balenciaga,Carry Shopper S Tote Bag,"$1,190",Bags/Leather_Goods
+714,Balenciaga,Arena Leather Explorer Belt Bag,"$1,250",Bags/Leather_Goods
+715,Balenciaga,Carry Shopper S Leather Tote Bag,"$1,950",Bags/Leather_Goods
+716,Balenciaga,Explorer Backpack,"$1,050",Bags/Leather_Goods
+717,GREY NEW YORK GREY NEW ENGLAND,Leather Pouch,$195,Bags/Leather_Goods
+718,Balenciaga,Explorer Medium Tote Bag,"$1,190",Bags/Leather_Goods
+719,Paul Smith,Leather Folding Card Case,$195,Bags/Leather_Goods
+720,CALVIN KLEIN 205W39NYC,"""Berkeley"" Leather Tote Bag","$1,890",Bags/Leather_Goods
+721,CALVIN KLEIN 205W39NYC,Logo-Embroidered Pouch,$390,Bags/Leather_Goods
+722,Prada,Leather Portfolio,"$1,190",Bags/Leather_Goods
+723,Gucci,Floral Tote Bag,"$1,100",Bags/Leather_Goods
+724,Gucci,Studded Leather Belt Bag,"$1,450",Bags/Leather_Goods
+725,Gucci,Logo Leather Billfold,$380,Bags/Leather_Goods
+726,Gucci,NY Yankees™ GG-Pattern Leather Zip Wallet,$830,Bags/Leather_Goods
+727,Christian Louboutin,Backloubi Canvas-Jacquard Backpack,"$1,550",Bags/Leather_Goods
+728,GREY NEW YORK GREY NEW ENGLAND,Panama Canvas & Leather Tote Bag,$495,Bags/Leather_Goods
+729,Valentino Garavani,Large Leather Pouch,$575,Bags/Leather_Goods
+730,Fendi,Leather Belt Bag,"$1,690",Bags/Leather_Goods
+731,GREY NEW YORK GREY NEW ENGLAND,Leather Duffel Bag,$975,Bags/Leather_Goods
+732,Gucci,Logo Leather Money-Clip Card Case,$340,Bags/Leather_Goods
+733,Off-White c/o Virgil Abloh,Arrows Canvas Backpack,$685,Bags/Leather_Goods
+734,Paul Smith,Explorer Bear Leather Card Case,$195,Bags/Leather_Goods
+735,Paul Smith,Explorer Bear Leather Half-Zip Wallet,$250,Bags/Leather_Goods
+736,Alexander McQueen,Skull Money Clip,$130,Bags/Leather_Goods
+737,Saint Laurent,Carabiner Leather Key Chain,$195,Bags/Leather_Goods
+738,Prada,Logo Leather Pouch,$850,Bags/Leather_Goods
+739,Prada,Leather-Trimmed Pouch,$420,Bags/Leather_Goods
+740,Maison Margiela,Glam Slam Padded Canvas Duffel Bag,"$2,870",Bags/Leather_Goods
+741,Valentino Garavani,"""VLTN"" Leather-Trimmed Backpack","$1,945",Bags/Leather_Goods
+742,Thom Browne,Large Leather Coin Purse,$470,Bags/Leather_Goods
+743,Thom Browne,Leather Coin Case,$290,Bags/Leather_Goods
+744,Thom Browne,Leather Coin Case,$220,Bags/Leather_Goods
+745,Thom Browne,Leather Billfold,$420,Bags/Leather_Goods
+746,Thom Browne,Leather & Patent Leather Card Case,$370,Bags/Leather_Goods
+747,Dries Van Noten,Wave-Print Twill Tote Bag,$640,Bags/Leather_Goods
+748,Dries Van Noten,Tech-Fabric Belt Bag,$420,Bags/Leather_Goods
+749,Dries Van Noten,Tech-Fabric Belt Bag,$420,Bags/Leather_Goods
+750,Thom Browne,Large Leather Pouch,$720,Bags/Leather_Goods
+751,Thom Browne,Leather Card Case,$240,Bags/Leather_Goods
+752,Valentino Garavani,Belt Bag,$695,Bags/Leather_Goods
+753,Gucci,Floral-Print Backpack,"$2,590",Bags/Leather_Goods
+754,Balenciaga,Logo Market Shopper Small Leather Tote Bag,"$1,380",Bags/Leather_Goods
+755,Saint Laurent,City Tiger-Striped Canvas Backpack,"$1,290",Bags/Leather_Goods
+756,Saint Laurent,City Leather Backpack,"$1,450",Bags/Leather_Goods
+757,Gucci,Appliquéd Jute Tote Bag,"$1,490",Bags/Leather_Goods
+758,Balenciaga,"""Plastic Bag"" Medium Leather Shopper Tote Bag","$1,380",Bags/Leather_Goods
+759,Boldrini Selleria,Leather Messenger Bag,$655,Bags/Leather_Goods
+760,Boldrini Selleria,Leather Briefcase,$795,Bags/Leather_Goods
+761,Boldrini Selleria,Leather Briefcase,$795,Bags/Leather_Goods
+762,Boldrini Selleria,Leather Portfolio,$255,Bags/Leather_Goods
+763,Boldrini Selleria,Leather Portfolio,$255,Bags/Leather_Goods
+764,Felisi,Leather-Trimmed Tote Bag,$775,Bags/Leather_Goods
+765,Felisi,Leather-Trimmed Briefcase,"$1,225",Bags/Leather_Goods
+766,Felisi,Convertible Leather-Trimmed Canvas Tote Bag,$995,Bags/Leather_Goods
+767,Felisi,Leather-Trimmed Suede Briefcase,"$1,150",Bags/Leather_Goods
+768,Balenciaga,Arena Leather Large Supermarket Shopper Tote Bag,"$1,050",Bags/Leather_Goods
+769,LANDLORD,Faux-Fur Belt Bag,$200,Bags/Leather_Goods
+770,Givenchy,Leather Money Clip Billfold,$490,Bags/Leather_Goods
+771,Givenchy,Logo Crossbody Bag,$895,Bags/Leather_Goods
+772,Givenchy,Large Lion-Graphic Leather Pouch,$495,Bags/Leather_Goods
+773,Givenchy,Leather Billfold,$575,Bags/Leather_Goods
+774,Givenchy,Leather Billfold,$490,Bags/Leather_Goods
+775,Givenchy,Large Leather Pouch,$875,Bags/Leather_Goods
+776,Givenchy,Logo-Strap Canvas Pouch,$525,Bags/Leather_Goods
+777,Givenchy,Logo Pouch,$530,Bags/Leather_Goods
+778,Givenchy,Logo Crossbody Bag,$895,Bags/Leather_Goods
+779,Givenchy,Logo iPhone® X Case,$140,Bags/Leather_Goods
+780,Givenchy,Pandora Messenger Bag,"$1,850",Bags/Leather_Goods
+781,Givenchy,Urban Leather-Trimmed Backpack,"$1,450",Bags/Leather_Goods
+782,Prada,Logo Leather Card Case,$260,Bags/Leather_Goods
+783,Campomaggi,Convertible Leather Backpack,$505,Bags/Leather_Goods
+784,Prada,Logo Leather Billfold,$440,Bags/Leather_Goods
+785,Bottega Veneta,Intrecciato Leather Key Chain,$220,Bags/Leather_Goods
+786,Fendi,Logo Leather Key Chain,$350,Bags/Leather_Goods
+787,Prada,Leather Long Wallet,$550,Bags/Leather_Goods
+788,Campomaggi,Leather-Trimmed Belt Bag,$465,Bags/Leather_Goods
+789,Prada,Logo Leather Pouch,$850,Bags/Leather_Goods
+790,ALYX,Chest Rig Bag,"$1,050",Bags/Leather_Goods
+791,Prada,Small Leather Keychain Pouch,$380,Bags/Leather_Goods
+792,Prada,Leather Folding Card Case,$360,Bags/Leather_Goods
+793,Campomaggi,Convertible Leather Backpack,$505,Bags/Leather_Goods
+794,Prada,Leather Belt Bag,"$1,350",Bags/Leather_Goods
+795,AMIRI,Silk Bandana Key Chain,$170,Bags/Leather_Goods
+796,Valentino Garavani,Camouflage Leather Card Case,$195,Bags/Leather_Goods
+797,Prada,Leather Travel Tote Bag,"$2,550",Bags/Leather_Goods
+798,Prada,Belt Bag,$580,Bags/Leather_Goods
+799,Prada,Leather-Trimmed Duffel Bag,"$1,790",Bags/Leather_Goods
+800,Prada,Leather Pouch,$870,Bags/Leather_Goods
+801,Prada,Zip-Around Leather Wallet,$770,Bags/Leather_Goods
+802,Off-White c/o Virgil Abloh,Leather Billfold,$325,Bags/Leather_Goods
+803,Serapian,Evolution Leather Briefcase,"$1,125",Bags/Leather_Goods
+804,Serapian,Milano Leather Briefcase,"$1,400",Bags/Leather_Goods
+805,Serapian,Evolution Leather Zip Card Case,$235,Bags/Leather_Goods
+806,Prada,Leather Pouch,$650,Bags/Leather_Goods
+807,Serapian,Evolution Leather Folding Card Case,$215,Bags/Leather_Goods
+808,Valentino Garavani,Camouflage Leather Card Case,$195,Bags/Leather_Goods
+809,Paul Smith,Leather Briefcase,$795,Bags/Leather_Goods
+810,Serapian,Milano Leather Folding Card Case,$235,Bags/Leather_Goods
+811,Fontana Milano 1915,Leather Duffel Bag,"$5,525",Bags/Leather_Goods
+812,Dries Van Noten,Twill Pouch,$430,Bags/Leather_Goods
+813,Dries Van Noten,Wave-Print Twill Tote Bag,$600,Bags/Leather_Goods
+814,Dries Van Noten,Wave-Print Twill Tote Bag,$600,Bags/Leather_Goods
+815,Felisi,Leather-Trimmed Backpack,$910,Bags/Leather_Goods
+816,Fontana Milano 1915,Tum Tum Leather-Trimmed Denim Tote Bag,"$2,700",Bags/Leather_Goods
+817,Christian Louboutin,Panettone Leather Wallet,$670,Bags/Leather_Goods
+818,Thom Browne,Leather Reporter Bag,"$1,290",Bags/Leather_Goods
+819,Barneys New York,Small Alligator Zip-Around Card Case,$495,Bags/Leather_Goods
+820,Valentino Garavani,Zip Pouch,$475,Bags/Leather_Goods
+821,Paul Smith,Leather Backpack,$595,Bags/Leather_Goods
+822,Paul Smith,Leather Briefcase,$595,Bags/Leather_Goods
+823,Fendi,Shearling & Leather Toast Key Pouch,$850,Bags/Leather_Goods
+824,Saint Laurent,Pineapple-Stamped Leather Money-Clip Billfold,$425,Bags/Leather_Goods
+825,Fontana Milano 1915,Small Leather Billfold,$650,Bags/Leather_Goods
+826,Fontana Milano 1915,Small Leather Billfold,$650,Bags/Leather_Goods
+827,Fontana Milano 1915,Small Leather Billfold,$650,Bags/Leather_Goods
+828,Fontana Milano 1915,Small Leather Billfold,$650,Bags/Leather_Goods
+829,Felisi,Large Tote Bag,$925,Bags/Leather_Goods
+830,Saint Laurent,Leather Lanyard Card Case,$345,Bags/Leather_Goods
+831,Saint Laurent,Leather Card Case,$225,Bags/Leather_Goods
+832,Paul Smith,Leather Folding Card Case,$195,Bags/Leather_Goods
+833,Prada,Leather Card Case,$260,Bags/Leather_Goods
+834,Maison Margiela,3-In-1 Canvas Pouch,$590,Bags/Leather_Goods
+835,Il Bisonte,Canvas & Leather Shopping Tote Bag,$675,Bags/Leather_Goods
+836,Il Bisonte,Canvas & Leather Convertible Backpack,$795,Bags/Leather_Goods
+837,Prada,Leather Pouch,"$1,270",Bags/Leather_Goods
+838,Il Bisonte,Canvas & Leather Zip-Around Backpack,$495,Bags/Leather_Goods
+839,Il Bisonte,Canvas & Leather Zip-Around Backpack,$495,Bags/Leather_Goods
+840,Gucci,GG Supreme Leather-Trimmed Messenger Bag,$850,Bags/Leather_Goods
+841,Vianel,Convertible Leather Belt Bag,$390,Bags/Leather_Goods
+842,Gucci,Logo Leather Duffel Bag,"$2,490",Bags/Leather_Goods
+843,Gucci,"""Gucci 2019 Arles"" Jute Tote Bag",$980,Bags/Leather_Goods
+844,Gucci,LA Dodgers™ GG Supreme Backpack,"$2,100",Bags/Leather_Goods
+845,Thom Browne,Checked Leather Money Clip Billfold,$420,Bags/Leather_Goods
+846,Thom Browne,Triangle Leather Coin Purse,$740,Bags/Leather_Goods
+847,Gucci,GG Supreme Tote Bag,"$1,490",Bags/Leather_Goods
+848,Il Bisonte,Leather-Trimmed Canvas Sling Bag,$675,Bags/Leather_Goods
+849,Il Bisonte,Leather-Trimmed Canvas Duffel Bag,"$1,100",Bags/Leather_Goods
+850,Il Bisonte,Leather-Trimmed Canvas Crossbody Bag,$410,Bags/Leather_Goods
+851,Thom Browne,Leather Card Case,$390,Bags/Leather_Goods
+852,Fendi,FF Logo Leather Billfold,$450,Bags/Leather_Goods
+853,Thom Browne,Note-Compartment Leather Card Case,$310,Bags/Leather_Goods
+854,Thom Browne,Leather Zip-Around Card Case,$560,Bags/Leather_Goods
+855,Thom Browne,Leather Billfold,$480,Bags/Leather_Goods
+856,Fendi,FF Logo Leather Card Case,$290,Bags/Leather_Goods
+857,Thom Browne,Small Leather Pouch,$420,Bags/Leather_Goods
+858,Fendi,Bag Bugs Leather Billfold,$490,Bags/Leather_Goods
+859,Fendi,Bag Bugs Leather Belt Bag,"$1,290",Bags/Leather_Goods
+860,Prada,Whale-Motif Leather Billfold,$460,Bags/Leather_Goods
+861,Prada,Leather Card Case,$260,Bags/Leather_Goods
+862,Balenciaga,"""The Power Of Dreams"" Graffiti Medium Leather Pouch",$650,Bags/Leather_Goods
+863,Prada,Leather Pouch,"$1,250",Bags/Leather_Goods
+864,Fendi,Bag Bugs Fur-Trimmed Leather Coin Pouch,$630,Bags/Leather_Goods
+865,Fendi,Fur-Trimmed Leather Key Chain,$550,Bags/Leather_Goods
+866,Thom Browne,Leather Tablet Case,"$1,100",Bags/Leather_Goods
+867,WANT LES ESSENTIELS,Aberdeen Leather Tote Bag,$725,Bags/Leather_Goods
+868,Prada,Leather-Trimmed Tote Bag,"$1,220",Bags/Leather_Goods
+869,LOEWE,Desert Leather Wallet,$550,Bags/Leather_Goods
+870,LOEWE,Desert Leather Zip-Around Card Case,$375,Bags/Leather_Goods
+871,LOEWE,Leather Hand Key Chain,$490,Bags/Leather_Goods
+872,LOEWE,Desert Lion Large Leather Pouch,$890,Bags/Leather_Goods
+873,WANT LES ESSENTIELS,Rogue Utility Backpack,$395,Bags/Leather_Goods
+874,Valentino Garavani,Camouflage Leather Card Case,$375,Bags/Leather_Goods
+875,Valentino Garavani,Camouflage Leather Passport Wallet,$295,Bags/Leather_Goods
+876,WANT LES ESSENTIELS,Dayton Shopper Tote Bag,$175,Bags/Leather_Goods
+877,LOEWE,Doll Key Chain,$390,Bags/Leather_Goods
+878,Valentino Garavani,Camouflage Tech-Fabric Belt Bag,$695,Bags/Leather_Goods
+879,Dries Van Noten,Canvas Zip-Around Wallet,$215,Bags/Leather_Goods
+880,Valentino Garavani,Camouflage Leather & Canvas Money Clip Billfold,$395,Bags/Leather_Goods
+881,Cornelian Taurus,Tower Ruck Leather Backpack,"$1,215",Bags/Leather_Goods
+882,Cornelian Taurus,Switch Boston Leather Tote Bag,"$1,495",Bags/Leather_Goods
+883,Cornelian Taurus,Connect Ruck Leather Backpack,"$1,275",Bags/Leather_Goods
+884,Boldrini Selleria,Leather Briefcase,$885,Bags/Leather_Goods
+885,Fendi,Leather Backpack,"$2,890",Bags/Leather_Goods
+886,CALVIN KLEIN 205W39NYC,"""Yale"" Leather Tote Bag","$1,890",Bags/Leather_Goods
+887,CALVIN KLEIN 205W39NYC,The Catch Football Leather Tote Bag,"$1,790",Bags/Leather_Goods
+888,Alexander McQueen,Painter's Palette ID Holder,$380,Bags/Leather_Goods
+889,Dries Van Noten,Canvas Pouch,$430,Bags/Leather_Goods
+890,Fontana Milano 1915,Leather Tote Bag,"$3,750",Bags/Leather_Goods
+891,Prada,Leather Pouch,$965,Bags/Leather_Goods
+892,Balenciaga,Leather Shopper Tote Bag,"$1,750",Bags/Leather_Goods
+893,Balenciaga,Explorer Backpack,"$1,450",Bags/Leather_Goods
+894,Balenciaga,Explorer Belt Bag,$830 - $850,Bags/Leather_Goods
+895,Balenciaga,Logo Explorer Belt Bag,$850,Bags/Leather_Goods
+896,Balenciaga,Arena Leather Bazar Pouch,$895,Bags/Leather_Goods
+897,Balenciaga,Explorer Belt Bag,"$1,190",Bags/Leather_Goods
+898,Smythson,Wigmore Leather Card Holder,$195,Bags/Leather_Goods
+899,Alexander McQueen,Croc-Embossed Leather Folding Card Case,$295,Bags/Leather_Goods
+900,Felisi,Leather-Trimmed Duffel Bag,$960,Bags/Leather_Goods
+901,Smythson,Panama Leather Zip-Around Card Case,$270,Bags/Leather_Goods
+902,Smythson,Bond Leather Zip-Around Card Case,$270,Bags/Leather_Goods
+903,Smythson,Wigmore Zip-Around Leather Card Case,$315,Bags/Leather_Goods
+904,Balenciaga,Collier Link Key Chain,$650,Bags/Leather_Goods
+905,Smythson,Wigmore Zip-Around Leather Card Case,$315,Bags/Leather_Goods
+906,Fontana Milano 1915,Tum Tum Large Leather Tote Bag,"$2,925",Bags/Leather_Goods
+907,Fontana Milano 1915,Leather Messenger Bag,"$2,950",Bags/Leather_Goods
+908,Fontana Milano 1915,Sciuscià Leather Tote Bag,"$3,700",Bags/Leather_Goods
+909,Dries Van Noten,Wave-Print Twill Tote Bag,$600,Bags/Leather_Goods
+910,Serapian,Evolution Leather Tote Bag,$800,Bags/Leather_Goods
+911,Balenciaga,Arena Leather Explorer Pouch,$695,Bags/Leather_Goods
+912,Thom Browne,Zip-Around Leather Card Case,$550,Bags/Leather_Goods
+913,Thom Browne,Folding Leather Card Case,$450,Bags/Leather_Goods
+914,Saint Laurent,Shopping Tote Bag,$650,Bags/Leather_Goods
+915,Givenchy,Leather Billfold,$490,Bags/Leather_Goods
+916,Prada,Small Leather Crossbody Bag,"$1,650",Bags/Leather_Goods
+917,Saint Laurent,City Canvas Backpack,"$1,150",Bags/Leather_Goods
+918,Givenchy,Tag Leather Belt Bag,"$1,490",Bags/Leather_Goods
+919,Barneys New York,Double-Handle Tote Bag,$550,Bags/Leather_Goods
+920,WANT LES ESSENTIELS,Branson Leather Card Case,$115,Bags/Leather_Goods
