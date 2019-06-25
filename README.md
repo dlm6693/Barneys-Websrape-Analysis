@@ -8,8 +8,8 @@ Scraping, analysis and statistical testing of the iconic department store's men'
 ## Data Aggregation
 * Approximately 9,000 different items of men's clothing and about 15,000 for women
 * Performed basic analysis and visualizations to get a better sense of the data, like most common brands (excluding the retailer's own) and most expensive
-![image-0](Images/men_women_common_brands.png)
-![image-1](Images/men_women_high_price.png)
+![image-0](Images/men_women_common_brands.PNG)
+![image-1](Images/men_women_high_price.PNG)
 * As can be seen above, most common brands mostly showed familiar names while most expensive offered more variety
 * What's more revealing is how much higher the top prices for women's were than men's
 
@@ -22,7 +22,7 @@ Scraping, analysis and statistical testing of the iconic department store's men'
 * To reaffirm this difference between men's and women's items, I visualized the first eight deciles of the pricing data (max of $2,500 vs. $90,000) to get a better sense of overall distribution by sex:
 ![image-3](Images/men_women_price_distplot.PNG)
 * Clearly men's prices are more closely clustered and lower overall than women's, but drilling down by category, I found more similarities:
-![image-4](Images/men_women_category_dist.PNG)
+![image-4](Images/mens_women_category_dist.PNG)
 * Instead of filtering for deciles, I set a limit on the x-axis as the right tails were quite long as to expected at this point
 
 ## Statistical Analysis with a Surprise Guest
